@@ -18,7 +18,7 @@ To mimic the `baseurl` without actually setting it in the `_config.yml` we have 
 
 __Remember__ to use this variable as a prefix to all your file references. An example: If you have an image located in `/images/my.pgn` and you want to include it use:
 
-   ![My beautiful pic]({{site.root}}/images/my.png)
+    ![My beautiful pic]({{site.root}}/images/my.png)
    
 Or if you want to link to a internal site at `/speakers/lars+kruse.html` you should use the same approach:
 
