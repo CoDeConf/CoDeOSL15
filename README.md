@@ -24,7 +24,7 @@ Or if you want to link to a internal site at `/speakers/lars+kruse.html` you sho
 
     [Lars Kruse]({{site.root}}/speakers/lars+kruse.html)
     
-Please not that this `{{site.root}}` prefix is required everywhere you wan't the references to be self contained within this repository - if you omit it you'll be referring to the actual root - which in our case is www.code-conf.com which is in the Git repo at [CoDeConf/CoDeConf.github.io](https://github.com/CoDeConf/CoDeConf.github.io).
+Please not that this `{{site.root}}` prefix is required everywhere you wan't the references to be self contained within this repository - if you omit it you'll be referring to the actual domain site root - which in our case is www.code-conf.com. So any reference used like that should be in the Git repo serving the site root. That repo is  [CoDeConf/CoDeConf.github.io](https://github.com/CoDeConf/CoDeConf.github.io).
 
 To test that you have used this approach consistently simply serve your site form the site root when you fire it up, as demonstrated earlier. If anything is broken you will see it.
 
