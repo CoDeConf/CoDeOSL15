@@ -10,9 +10,9 @@ authors: [Andi Mann]
 #### By Andi Mann, VP Office of the CTO
 {: mann}
 
-#### Speak:[Keynote, DevOps, Cloud and Your SDLC](/program#devops)
+#### Speak:[Keynote, DevOps, Cloud and Your SDLC]({{site.root}}/program#devops)
 
-![Andi Mann](/images/speakers/andimann.jpg){: .portrait}In todays technology environment, disruption is the name of the game. Try new services, new ideas, new products; move faster than competitors, faster than you ever have before; work better together, collaborate with partners, form new alliances, because the whole is more than the sum of the parts.
+![Andi Mann]({{site.root}}/images{{site.root}}/speakers/andimann.jpg){: .portrait}In todays technology environment, disruption is the name of the game. Try new services, new ideas, new products; move faster than competitors, faster than you ever have before; work better together, collaborate with partners, form new alliances, because the whole is more than the sum of the parts.
 
 And it is the application that has been the driver of so much of this radical disruption. New systems of engagement have emerged, connecting businesses with customers on mobile devices, on social media, through consumer analytics, through digital marketing. New systems of innovation have emerged too, from emerging API-driven data platforms to wearable computing and the 'Internet of Things. Everyone wants the new killer app, the new digital disruptor, the new radical innovation.
 

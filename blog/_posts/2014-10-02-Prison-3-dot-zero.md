@@ -10,9 +10,9 @@ authors: [Morten Elvang]
 #### By Morten Elvang, Principal Consultant, DELTA
 {: elvang}
 
-#### Speak: [Game changing beliefs](/program#gamechanging)
+#### Speak: [Game changing beliefs]({{site.root}}/program#gamechanging)
 
-![Morten Elvang](/images/speakers/melvang.jpg){: .portrait} All organizations are build with the best intentions of creating a structure that supports everyone to fulfill the purpose and meet the specific goals set by the organization. That’s how it all starts. Then one day you wake up and realize that your organization is no longer with you. Rather, it’s against you. You are locked in. In jail. In prison. This is what I call Prison 3.0. <br clear="both">
+![Morten Elvang]({{site.root}}/images{{site.root}}/speakers/melvang.jpg){: .portrait} All organizations are build with the best intentions of creating a structure that supports everyone to fulfill the purpose and meet the specific goals set by the organization. That’s how it all starts. Then one day you wake up and realize that your organization is no longer with you. Rather, it’s against you. You are locked in. In jail. In prison. This is what I call Prison 3.0. <br clear="both">
 
 You are tied up in your own structure. This may manifest itself in many ways. It may be the chaotic organization, where there is no consequence and no alignment. In short no value from being an organization. Or, it may be the overly bureaucratic organization, where nothing moves. Or, at least it feels so at times. Have you been there?
 

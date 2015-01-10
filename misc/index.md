@@ -22,7 +22,7 @@ Hear about the latest development and best practices from the front runners and 
 Is your company mature? Take the test
 </a><br/>
 <a href="http://cdmi.praqma.net/">
-<img src="/images/maturity_model_web.png" class="stdcenter" style="width:600.">
+<img src="{{site.root}}/images/maturity_model_web.png" class="stdcenter" style="width:600.">
 </a><br/>
 
 ###Parking at The Bristol Hotel<br/>

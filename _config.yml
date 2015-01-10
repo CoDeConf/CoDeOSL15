@@ -1,6 +1,7 @@
-name: JOSRA
+name: CoDeOSL 2015
 highlighter: pygments
 exclude: [README.md]
 timezone: Europe/Copenhagen
-url: www.josra.org
+url: www.code-conf.com/osl15
+root: /osl15
 markdown: kramdown

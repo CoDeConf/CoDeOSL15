@@ -25,7 +25,7 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">9:10</div>
     <div class="agenda-column agenda-1col agenda-item">
-      <a href="/program/#devops">Keynote: xx </a><br />
+      <a href="{{site.root}}/program/#devops">Keynote: xx </a><br />
       <em>xx, CA Technologies</em>
     </div>
   </div>
@@ -43,11 +43,11 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">10:10</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#cdmaturity">Continuous Delivery Maturity</a><br /><em>Lars Kruse, Praqma</em><br/>&nbsp;
+      <a href="{{site.root}}/program/#cdmaturity">Continuous Delivery Maturity</a><br /><em>Lars Kruse, Praqma</em><br/>&nbsp;
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#cdziggo">The Implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)</a><br /><em>Michiel Sens, Xebia </em><br/>
+      <a href="{{site.root}}/program/#cdziggo">The Implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)</a><br /><em>Michiel Sens, Xebia </em><br/>
     </div>
   </div>
 
@@ -65,9 +65,9 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">11:05</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-    <a href="/program#embedded">Title</a><br/><em>Presenter</em></div>
+    <a href="{{site.root}}/program#embedded">Title</a><br/><em>Presenter</em></div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-    <a href="/program#sdlc">Title</a><br/><em>Presenter</em></div>
+    <a href="{{site.root}}/program#sdlc">Title</a><br/><em>Presenter</em></div>
   </div>
 
   <div class="agenda-row">
@@ -78,11 +78,11 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">12:20</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#vision"> On the Way Towards the Vision of DevOps</a><br /><em>Per Arnold Blaasmo, Atmel Norway</em>
+      <a href="{{site.root}}/program/#vision"> On the Way Towards the Vision of DevOps</a><br /><em>Per Arnold Blaasmo, Atmel Norway</em>
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="/program/#gamechanging">Game Changing Beliefs</a><br /><em>Morten Elvang, DELTA</em>
+      <a href="{{site.root}}/program/#gamechanging">Game Changing Beliefs</a><br /><em>Morten Elvang, DELTA</em>
     </div>
   </div>
 
@@ -95,9 +95,9 @@ title: CoDe & DevOps Conference
   <div class="agenda-column agenda-column-time timestamp">13:00</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="/program#git">A Business Case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
+  <a href="{{site.root}}/program#git">A Business Case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="/program#scale">DevOps at Scale</a><br/><em>Benjamin Wootton, Contino</em></div>
+  <a href="{{site.root}}/program#scale">DevOps at Scale</a><br/><em>Benjamin Wootton, Contino</em></div>
 </div>
 
 <div class="agenda-row">
@@ -109,10 +109,10 @@ title: CoDe & DevOps Conference
   <div class="agenda-column agenda-column-time timestamp">13:40</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="/program#elephant">DevOps and Moving the Elephant</a><br/><em>Chris Gargiulo, Maersk Group Infrastructure Services</em></div>
+  <a href="{{site.root}}/program#elephant">DevOps and Moving the Elephant</a><br/><em>Chris Gargiulo, Maersk Group Infrastructure Services</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="/program#making">Making the Case for Review</a><br/><em>Austin Bingham, Sixty North</em></div>
+  <a href="{{site.root}}/program#making">Making the Case for Review</a><br/><em>Austin Bingham, Sixty North</em></div>
 </div>
 
   <div class="agenda-row">
@@ -127,8 +127,8 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">14:55</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#sissies">Peer Reviews Are for Sissies</a><br /><em>Lars Kruse, Praqma</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#howto">Title</a><br /><em>Presenter</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#sissies">Peer Reviews Are for Sissies</a><br /><em>Lars Kruse, Praqma</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#howto">Title</a><br /><em>Presenter</em></div>
   </div>
 
   <div class="agenda-row">
@@ -138,8 +138,8 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:15</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#agility">Title</a><br/><em>Presenter</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="/program/#xrayed">Title<br /></a><em>Presenter</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#agility">Title</a><br/><em>Presenter</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#xrayed">Title<br /></a><em>Presenter</em></div>
   </div>
 
   <div class="agenda-row">
@@ -150,7 +150,7 @@ title: CoDe & DevOps Conference
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time timestamp">15:40</div>
   <div class="agenda-column agenda-1col agenda-item">
-    <a href="/program/#usingcd">Keynote: Using Continuous Delivery to Build Products Customers Actually Use</a><br />
+    <a href="{{site.root}}/program/#usingcd">Keynote: Using Continuous Delivery to Build Products Customers Actually Use</a><br />
     <em>Jan Bosch, Professor of Software Engineering, Chalmers University of Technology</em>
   </div>
 </div>
@@ -158,7 +158,7 @@ title: CoDe & DevOps Conference
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time timestamp">16:25</div>
 
-  <div class="agenda-column agenda-1col agenda-item"><a href="/program/#panel">Panel Discussion - All Presenters on Stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@codeosl</a> during the day</em></div>
+  <div class="agenda-column agenda-1col agenda-item"><a href="{{site.root}}/program/#panel">Panel Discussion - All Presenters on Stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@codeosl</a> during the day</em></div>
 
 
 <div class="agenda-row">

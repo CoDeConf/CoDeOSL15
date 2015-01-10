@@ -10,9 +10,9 @@ authors: [Lars Kruse]
 #### By Lars Kruse, Continuous Delivery Coach, Praqma
 {: Kruse}
 
-#### Speak: [Continuous Delivery Maturity](/program#cdmaturity)
+#### Speak: [Continuous Delivery Maturity]({{site.root}}/program#cdmaturity)
 
-![Lars Kruse](/images/speakers/lars_kruse.jpg){: .portrait} Continuous Delivery is a software development approach that enables teams to always have releasable code in stock. Through the means of automation and extensive tool support, quality assurance is literally built into every single step of the process and is being continuously enforced, enabling corporations to continuously deliver quality software in line with user feedback, shifts in markets and changes to business strategy.
+![Lars Kruse]({{site.root}}/images{{site.root}}/speakers/lars_kruse.jpg){: .portrait} Continuous Delivery is a software development approach that enables teams to always have releasable code in stock. Through the means of automation and extensive tool support, quality assurance is literally built into every single step of the process and is being continuously enforced, enabling corporations to continuously deliver quality software in line with user feedback, shifts in markets and changes to business strategy.
 
 #### Continuous Delivery Defies Phases
 Software development is iterative by nature. Each release is followed by another and regarded as a separate cycle founded on the previous one. Traditionally the software development process is perceived as having phases such as development, integration, deployment, testing, and release, but unfortunately these phases are all notoriously unpredictable. The release date cannot be planned. The solution is to automate all consolidation and verification steps and execute them upon every
@@ -20,14 +20,14 @@ single commit.
 
 Continuous Delivery is a different approach for organizing the development process. It’s a strategy that defies phases. Instead it introduces extensive automation and execution of tests as well as verifications upon every single commit from the developers. The   doctrine is that each commit is a potential release candidate – you just have to test it to see if it is – or not. Continuous Delivery advocates that you always have releasable code in stock, so when the release date comes, you simply just push the release button.
 
-![Traditional iterative vs. Continuous Delivery](/images/speakers/bil2.jpg)
+![Traditional iterative vs. Continuous Delivery]({{site.root}}/images{{site.root}}/speakers/bil2.jpg)
 
 #### Signs of Continuous Delivery Maturity
 Some of the first steps towards a Continuous Delivery pipeline can be very cheap low hanging fruits; ripe, juicy, and simply there for any modern development team to pick. Other steps might require such a large effort, that the return of investment is in the scope of the long term strategic planning in the line organization and potentially not interesting for the typical project oriented focus in software development. In other words; implementing Continuous Delivery is very much a discipline of recognizing when enough is enough.
 
 During our work in Praqma helping many different companies in their implementation of Continuous Delivery and through the seminars, conferences, and training classes we conduct, some of the most common questions we get in the field of Continuous Delivery are “where do we start”, “what to do next”, “what’s the benefit of that particular step”. When it comes to Continuous Delivery we have learned to recognize the various signs that indicate different levels of maturity, and we have used them to create a model. We use the model to systemize and categorize our findings, observations, and recommendations.
 
-![Continuous Delivery Maturity Model](/images/speakers/model.jpg)
+![Continuous Delivery Maturity Model]({{site.root}}/images{{site.root}}/speakers/model.jpg)
 
 #### The Continuous Delivery Maturity Model
 The model is organized so that the signs to the left are those we typically see with novice users and teams, while the ones to the right are typical signs of the experts. Horizontally in the model we have organized the signs in different categories. Build, Test & Quality Assurance, Software Configuration Management (SCM), and Visibility. But one thing we have learned since releasing this model is, that even though we have strived to use broad categories that embrace most of our findings, we have realized that the disciplines that are influenced by Continuous Delivery exceed the number of categories we have included in the model today. A natural development of the model could be a horizontal expansion into more areas where especially “system design & architecture” and “organizational culture” are obvious candidates.

@@ -11,7 +11,7 @@ __April 29th, 2015 at The Bristol Hotel Oslo.__
 ######Oslo now got its own conference on Continuous Delivery & DevOps. The conference name <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> is referring to Continuous Delivery and at the same time indicates what we're dealing with; software development.
 
 <a href="http://cdmi.praqma.net/">
-<img src="/images/maturity_model_web.png" class="stdright" style="width:500."></a>
+<img src="{{site.root}}/images/maturity_model_web.png" class="stdright" style="width:500."></a>
 
 ##This event is relevant to:
 IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.

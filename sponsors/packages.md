@@ -13,7 +13,7 @@ title: Sponsor packages
 
 ---
 
-<img class="stdleft" style="width:170px;" src="/images/sponsoring.jpg"/> The conference will have an exhibition area where attendees can come and talk to the Gold and Silver sponsors. During the afternoon there will be a break in sessions where the attendees are encouraged to visit the sponsors.
+<img class="stdleft" style="width:170px;" src="{{site.root}}/images/sponsoring.jpg"/> The conference will have an exhibition area where attendees can come and talk to the Gold and Silver sponsors. During the afternoon there will be a break in sessions where the attendees are encouraged to visit the sponsors.
 
 Meals and refreshments are also served in the exhibition area. There will be plenty of opportunity to meet the attendees. Silver and Gold sponsors will be given access to a table in the exhibition area where they can setup their materials, roll-ups, do demonstrations, hand out swags etc.
 
