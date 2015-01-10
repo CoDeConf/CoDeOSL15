@@ -10,9 +10,9 @@ To serve a jekyll site you fire it up with a `baseurl` setting as a parameter wh
 
     jekyll serve --baseurl /osl15 --watch
 
-Use this approach when you are testing locally. Don't fall for the trick and set this setting permanently in your `_config.yml` since this is also read by Github pages and sice it's already served as a project (sub) site it will und up as www.code-conf.com/osl15/osl15.
+Use this approach when you are testing locally. Don't fall for the trick and set this setting permanently in your `_config.yml` since this is also read and applied by Github pages but we're already hosting is as a project (sub) page so it will end up double as www.code-conf.com/osl15/osl15 - which is crab.
 
-To mimic the `baseurl` without actually setting it in the `_config.yml` we have introduced another variable there called `root`. So our `_config.yml` looks contains:
+To mimic the `baseurl` without actually setting it in the `_config.yml` we have introduced another variable of our own called `root`. So our `_config.yml` contains:
 
     root: /osl15
 
@@ -24,5 +24,7 @@ Or if you want to link to a internal site at `/speakers/lars+kruse.html` you sho
 
     [Lars Kruse]({{site.root}}/speakers/lars+kruse.html)
     
+Please not that this `{{site.root}}` prefix is required everywhere you wan't the references to be self contained within this repository - if you omit it you'll be referring to the actual root - which in our case is www.code-conf.com which is in the Git repo at [CoDeConf/CoDeConf.github.io](https://github.com/CoDeConf/CoDeConf.github.io).
+
 To test that you have used this approach consistently simply serve your site form the site root when you fire it up, as demonstrated earlier. If anything is broken you will see it.
 
