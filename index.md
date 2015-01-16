@@ -23,5 +23,3 @@ Continuous Delivery and DevOps are all about implementing the agile principles f
 How good is your Continuous Delivery Kung Fu? Do the <a href="http://cdmi.praqma.net" target="_blank">online self-assessment</a> and come to the conference to either teach or learn - or both.
 
 __This is going to be a reoccurring yearly conference - join us from the beginning - don't miss a beat.__
-
-XXXX
