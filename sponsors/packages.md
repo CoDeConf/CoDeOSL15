@@ -4,7 +4,8 @@ title: Sponsor packages
 ---
 #Sponsor packages
 
-######We offer four different types of sponsorships for the CoDe and DevOps conference.
+
+######We offer four different types of sponsorships for the CoDe & DevOps conference.
 
 <img class="stdleft" style="width:170px;" src="{{site.root}}/images/sponsoring.jpg"/> The conference will have an exhibition area where attendees can come and talk to the Gold and Silver sponsors. During the afternoon there will be a break in sessions where the attendees are encouraged to visit the sponsors.
 
