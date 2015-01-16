@@ -6,27 +6,21 @@ title: Sponsor packages
 
 ######We offer four different types of sponsorships for the CoDe and DevOps conference.
 
-* __Gold__ (EUR 5,000.00)
-* __Silver__ (EUR 2,000.00)
-* __Community__ (EUR 2,000.00)
-* __Happening or gimmick__ (negotiable - tell us what you want!)
-
----
-
 <img class="stdleft" style="width:170px;" src="{{site.root}}/images/sponsoring.jpg"/> The conference will have an exhibition area where attendees can come and talk to the Gold and Silver sponsors. During the afternoon there will be a break in sessions where the attendees are encouraged to visit the sponsors.
 
 Meals and refreshments are also served in the exhibition area. There will be plenty of opportunity to meet the attendees. Silver and Gold sponsors will be given access to a table in the exhibition area where they can setup their materials, roll-ups, do demonstrations, hand out swags etc.
 
 ## Gold sponsor benefits
-* 5 conference entry passes
 * Booth at the exhibition area, including space for your roll-ups and materials
+* Premium location of sponsor booth at exhibition area
 * Logo on web, printed program, conference roll-ups, and the conference token
-* Access to the attendees list ( title / name / address / phone number / email)
+* Full access to the attendees list ( title / name / address / phone number / email)
+* A 5 minute pitch of your choice at the sponsor lineup
 
 ## Silver sponsor benefits
-* 2 conference entry passes
 * Booth at the exhibition area, including space for your roll-ups and materials
 * Logo on web, printed program, conference roll-ups and the conference token
+* A 5 minute pitch of your choice at the sponsor lineup
 
 ## Happening or gimmick
 * You can sponsor anything from meals, drinks, sweets and swags. Let us know what you have in mind, and we'll work something out.
