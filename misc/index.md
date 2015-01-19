@@ -30,7 +30,7 @@ Is your company mature? Take the test
 If you come by car, you have the opportunity to use the exclusive valet parking service offer by the parking garage Bristolgarasjen. Park your car at the front of the hotel, check in at the reception and please tell the receptionist that you wish parking. Our parking staff will pick up, park and take care of your car during your stay. Parking in Bristolgarasjen costs from NOK 380,- per day.
 
 ###Accommodation<br/>
-Please let us know if you are planning to stay at The Bristol Hotel and we will be happy to assist you with any reservations. For assistance please [send us a mail](mailto:ah@praqma.net)
+Please let us know if you are planning to stay at The Bristol Hotel and we will be happy to assist you with any reservations. For assistance please [send us a mail.](mailto:ah@praqma.net)
 
 ###Information to sponsors<br/>
 Delivery of stand material can be sent to the event venue. All items must have the following information clearly indicated: Conference name: “Continuous Delivery & DevOps Conference”, name of the exhibiting company, number of pieces, and name of the person in charge of the stand.<br/>
