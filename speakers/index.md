@@ -4,15 +4,6 @@ title: CoDe OSL 2015 - speakers
 ---
 #CoDe OSL 2015 - speakers
 
-## Andi Mann
-{: mann}
-
-###### Vice President, Office of the CTO
-
-#### Speak:[Keynote, DevOps, Cloud and Your SDLC]({{site.root}}/program#devops)
-
-![Andi Mann]({{site.root}}/images/speakers/andimann.jpg){: .portrait}Andi Mann is a Vice President in the Office of the Chief Technology Officer at CA Technologies. He is an accomplished digital business executive with extensive global expertise as a strategist, technologist, innovator, marketer, and communicator. For over 25 years across five continents, Andi has built success with corporations, vendors, governments, and as a leading research analyst and business consultant.<br clear="both">
-
 ## Jan Bosch
 {: jbosch}
 
