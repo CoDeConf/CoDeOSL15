@@ -22,34 +22,6 @@ title: CoDe OSL 2015 - speakers
 
 ![Lars Kruse]({{site.root}}/images/speakers/lars_kruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.<br clear="both">
 
-## Michiel Sens
-{: #sens}
-
-###### Solution Architect, Xebia
-
-#### Speak: [The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global]({{site.root}}/program#cdziggo)
-
-![Michael Sens]({{site.root}}/images/speakers/msens.jpg){: .portrait} Michiel Sens has worked in the IT Industry for over 18 years, is co-writer of the book 'Continuous Delivery for Managers' and works as a Principal Consultant/Solution Architect at Xebia in The Netherlands. Michiel specializes in Continuous Delivery and full lifecycle software development programs and as such focuses on coaching Agile Teams, setting up central build environments, automating tests, automating deployment over multiple environments and implementing fully automated PaaS platforms. He advocates the use of Continuous Delivery at seminars and meetups, while remaining in touch with its details by performing actual implementations as well.<br clear="both">
-
-## Benjamin Wootton
-{: #wootton}
-
-###### Co-Founder, Contino
-
-#### Speak: [DevOps At Scale]({{site.root}}/program#scale)
-
-![Benjamin Wootton]({{site.root}}/images/speakers/bwootton.jpg){: .portrait} Benjamin is the Co-Founder of Contino, a London based professional services firm that specializes in helping enterprise organisations adopt DevOps and Continuous Deliver tools, practices and approaches.<br clear="both">
-
-
-## Nicola Paolucci
-{: #paolucci}
-
-###### Developer Advocate, Atlassian
-
-#### Speak [A Business Case for Git]({{site.root}}/program#git)
-
-![Nicola Paolucci]({{site.root}}/images/speakers/npaolucci.jpg){: .portrait} Nicola is a Developer Advocate at Atlassian. He writes and talks about git, development workflows, collaboration around code and is an all-round hacker. Prior to Atlassian he lead software teams, built crowd sourcing applications for geo-spatial data, worked on huge e-commerce deployments. Little known facts about Nicola: he gesticulates a lot while speaking (being Italian), lives in Amsterdam and rides a Ducati.
-
 ## Morten Elvang
 {: #elvang}
 
