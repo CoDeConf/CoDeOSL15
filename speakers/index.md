@@ -22,15 +22,6 @@ title: CoDe OSL 2015 - speakers
 
 ![Jan Bosch]({{site.root}}/images/speakers/jbosch.jpg){: .portrait} Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
 
-## Paul Speers
-{: #speers}
-
-###### CEO, Speerhead
-
-#### Speak: [How to find & grow your own DevOps experts…]({{site.root}}/program#howto)
-
-![Paul Speers]({{site.root}}/images/speakers/pspeers.jpg){: .portrait}Paul Speers started life as a Dev working for HP in R&D, then a key founder in a number of startups and latterly as an Op founding Fox IT the Global Service Managment Consulting and Training practice. He is co-founder of  Speerhead International - The Global DevOps recruitment specialist, which he started two years ago with the mission to put a recruitment and training practice into each global DevOps tech hub.<br clear="both">
-
 ## Lars Kruse
 {: #lkruse}
 
@@ -58,41 +49,6 @@ title: CoDe OSL 2015 - speakers
 
 ![Benjamin Wootton]({{site.root}}/images/speakers/bwootton.jpg){: .portrait} Benjamin is the Co-Founder of Contino, a London based professional services firm that specializes in helping enterprise organisations adopt DevOps and Continuous Deliver tools, practices and approaches.<br clear="both">
 
-## Jonas Bang Christensen
-{: #bang}
-
-###### SW Release Manager, Schneider Electric
-
-#### Speak: [Implementing Continuous Delivery in practice for embedded devices]({{site.root}}/program#embedded)
-
-![Jonas Bang Christensen]({{site.root}}/images/speakers/jbang.jpg){: .portrait} Jonas bang Christensen has 10+ years of experience as project manager within software integration, releasing and deployment, but has also setup his share of Jenkins jobs and pipelines. The last few years he has been working explicitly on implementing Continuous Integration & Delivery in different organizations.<br clear="both">
-
-## Rasmus Voss
-{: #voss}
-
-###### Continuous Integration Consultant, VossCon
-
-#### Speak: [Implementing Continuous Delivery in practice for embedded devices]({{site.root}}/program#embedded)
-
-![Rasmus Voss]({{site.root}}/images/speakers/rvoss.jpg){: .portrait} Rasmus Voss is specialized in Continuous Integration, software releasing, and process automation. His vast knowledge on these areas has been built by a 10-year career in Nokia. Today, Rasmus has his own company VossCon, where he consults with companies on how to make the most of their developers and testers by optimizing and automating.<br clear="both">
-
-## Lars Bendix
-{: #bendix}
-
-###### Professor of software engineering, Lund University
-
-#### Speak [Continuous Delivery X-rayed]({{site.root}}/program#xrayed)
-
-![Lars Bendix]({{site.root}}/images/speakers/bendix.jpg){: .portrait} Lars Bendix is professor of software engineering at Lund University, Sweden and administrator of the Scandinavian Network of Excellence in Software Configuration Management. He has spent most of his academic career doing research in Configuration Management together with various industrial partners and has taught one of the few academic courses in Configuration Management to hundreds of students. For more than a decade he has also been heavily involved with his department's agile activities.
-
-## Allan Tange
-{: #tange}
-
-###### CEO, Testhuset
-
-#### Speak [Robust functional- and integration testing earlier in the SDLC is mandatory when introducing Continuous Delivery]({{site.root}}/program#sdlc)
-
-![Allan Tange]({{site.root}}/images/speakers/tange.jpg){: .portrait} Allan Tange is the founder of Testhuset and has over the last 20 years helped many customers improving their quality of software applications. His focus is and has always been around getting testing and quality assurance as a natural part of the Software Delivery Life Cycle. Areas like mobile testing, testing of SAP solutions, browser compatibility tests and later Service Virtualization are all parts of Testhuset’s domain knowledge.
 
 ## Nicola Paolucci
 {: #paolucci}
@@ -110,7 +66,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [Game changing beliefs]({{site.root}}/program#gamechanging)
 
-![Morten Elvang]({{site.root}}/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and Partner in WWW.LKU.DK. He received his MSc and Phd in Computer Science from the Technical University of Denmark. He has helped product and service development teams of all sizes to gain better results with less hassle.<br clear="both">
+![Morten Elvang]({{site.root}}/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and blogger at 42stc. Earlier Morten has been with Nokia, Simcorp, and CRI. He received his MSc and Ph.d. in Computer Science from the Technical University of Denmark. Morten has helped product and service development teams of all sizes to solve difficult problems and gain better results with less hassle.<br clear="both">
 
 ## Florin Iten
 {: #iten}
@@ -119,7 +75,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [DevOps Agility: Lifecycle Reporting & Dashboards]({{site.root}}/program#agility)
 
-![Florin Iten]({{site.root}}/image/speakers/florin.jpg){: .portrait} Florin Iten serves as the Managing Partner of QACube, which was founded in 2014 to deliver analytics and C-level views across the software delivery lifecycle. Additionally Florin serves as CEO and Founder of ESGroup and CFO and Founder of Sixsentix. Florin is an active innovator and serial entrepreneur in Software DevOps and reporting and an expert in keeping pace with apps.
+![Florin Iten]({{site.root}}/images/speakers/florin.jpg){: .portrait} Florin Iten serves as the Managing Partner of QACube, which was founded in 2014 to deliver analytics and C-level views across the software delivery lifecycle. Additionally Florin serves as CEO and Founder of ESGroup and CFO and Founder of Sixsentix. Florin is an active innovator and serial entrepreneur in Software DevOps and reporting and an expert in keeping pace with apps.
 
 ## Chris Gargiulo
 {: #gargiulo}
@@ -137,7 +93,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [On the way towards the vision of DevOps]({{site.root}}/program#vision)
 
-![Per Arnold Blaasmo]({{site.root}}/images{{site.root}}/speakers/parnold.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.
+![Per Arnold Blaasmo]({{site.root}}/images/speakers/parnold.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.
 
 ## Austin Bingham
 {: #bingham}
