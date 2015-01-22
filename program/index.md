@@ -4,18 +4,6 @@ title: CoDe OSL 2015 Program
 ---
 # CoDe OSL 2015 Program
 
-## DevOps, Cloud and Your SDLC
-{: #devops}
-
-#### Keynote
-
-######[Andi Mann]({{site.root}}/speakers#andimann), CA
-
-By enabling new approaches to service delivery, cloud and DevOps together are delivering even greater speed, agility, and efficiency. No wonder leading innovators are adopting DevOps and cloud together!
-This presentation will explore the synergies in these two approaches, with practical tips, techniques, research data, war stories, case studies, and recommendations.
-
-Whether you are a startup or an enterprise; using private cloud, public cloud, or no cloud; an Agile noob or a DevOps pro; struggling with core banking systems, or building a new social/local/mobile app that will change the world (!); this session will give you actionable ideas on using cloud and DevOps together to revolutionize your software and service delivery lifecycle.
-
 ## Using Continuous Delivery to Build Products Customers Actually Use
 {: #usingcd}
 
@@ -24,11 +12,6 @@ Whether you are a startup or an enterprise; using private cloud, public cloud, o
 ######[Jan Bosch]({{site.root}}/speakers#jbosch), Chalmers University of Technology
 
 Research shows that for a typical system, more than half of all the features are never used. This is a colossal waste of R&D effort and is caused by companies asking customers and users what they want. Users don't know what they want and it's the engineer's job to find out. The presentation shows how Continuous Delivery can address this challenge by providing a systematic approach to exploring a broad set of hypotheses about functionality that might add value for users at different stages of development. The presentation introduces the notion of Innovation Experiment Systems as a systematic method for optimizing the user experience of existing features, developing new features as well as developing new products. Continuous Delivery is discussed as it provides the core enabling technology for successfully implementing this approach. The presentation is based on data from eight industrial cases and stresses the importance of speed and rapid iterations in development. The presentation uses numerous examples from industry are used to illustrate the concepts.
-
-## XX
-{: #howto}
-
-######[]({{site.root}}/speakers#XX),
 
 ## Continuous Delivery Maturity
 {: #cdmaturity}
@@ -44,43 +27,12 @@ For most software development teams it is a major challenge keeping up with the 
 
 Peer reviews are not a silver bullet. They often introduce validation in the QA process at a time where verification is really what's needed. Peer reviews represent unplanned work as well as queued work processes. The alternative: to automate your Continuous Delivery pipeline to an extend where you actually trust it to implement your definition of done - now that's lean!
 
-## The implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)
-{: #cdziggo}
-
-######[Michiel Sens]({{site.root}}/speakers#msens), Xebia
-
-The new Ziggo.nl website was launched in April 2014 and was developed by multiple vendors, comprising many different technologies like Java, PHP, Hippo CMS and MySql. As the site was build from the ground up, Ziggo automated the complete software delivery process and managed to deliver faster, cheaper and better than ever before.
-
-This presentation explains the key ingredients to making this project a real success, the project structure that was applied, an overview of the tooling that was implemented, provides examples on how these tools were implemented and explains the main differences between a traditional software delivery process and the optimized software delivery process that can be used for Continuous Delivery.
-
-## DevOps At Scale
-{: #scale}
-
-######[Benjamin Wootton]({{site.root}}/speakers#bwootton), Contino
-
-DevOps started life in ‘born on the web’ digital companies such as Facebook, Google, and Etsy.  As the movement has grown in size and prominence however, people are increasingly asking whether DevOps like practices can scale into bigger companies and how to get started on their own DevOps transformation.  
-
-In this session, we will cover why DevOps is especially relevant in an Enterprise setting, covering some of the challenges how to overcome them.  We’ll bring this to life with examples from some of our clients, many of whom are already leveraging DevOps practices to get to market earlier and deliver better software, more efficiently.
-
-## XX
-{: #}
-
-## A Business Case for Git
-{: #git}
-
-######[Nicola Paolucci]({{site.root}}/speakers#paolucci), Atlassian
-
-So you want to go Git, but other stakeholders in your organisation aren't quite convinced it's worth the effort? This talk will explain why migrating to Git is a win for the whole business – not just developers. We'll give you the ammunition you need to convince your team that the switch to Git is a no-brainer.
-
 ## Game changing beliefs
 {: #gamechanging}
 
 ######[Morten Elvang]({{site.root}}/speakers#elvang), DELTA
 
 How can you create an organization where it's possible to have success with CoDe and devops? Imagine you can chose to believe in something and that choosing the right things can fundamentally change your luck in business? Is this at all a useful way to go about creating an effective and supportive organization? And, if so, what should you chose to believe in?
-
-## XX
-{: #}
 
 ## DevOps and Moving the Elephant
 {: #elephant}
