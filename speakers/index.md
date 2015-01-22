@@ -18,7 +18,7 @@ title: CoDe OSL 2015 - speakers
 
 ###### Continuous Delivery Coach, Praqma
 
-#### Speaks: [Continuous Delivery Maturity]({{site.root}}/program#cdmaturity) & [Peer reviews are for sissies]({{site.root}}/program#sissies)
+#### Speaks: [Continuous Delivery Maturity]({{site.root}}/program#cdmaturity) & [Peer Reviews Are For Sissies]({{site.root}}/program#sissies)
 
 ![Lars Kruse]({{site.root}}/images/speakers/lars_kruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.<br clear="both">
 
@@ -27,7 +27,7 @@ title: CoDe OSL 2015 - speakers
 
 ###### Principal Consultant, DELTA
 
-#### Speak [Game changing beliefs]({{site.root}}/program#gamechanging)
+#### Speak [Game Changing Beliefs]({{site.root}}/program#gamechanging)
 
 ![Morten Elvang]({{site.root}}/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and blogger at 42stc. Earlier Morten has been with Nokia, Simcorp, and CRI. He received his MSc and Ph.d. in Computer Science from the Technical University of Denmark. Morten has helped product and service development teams of all sizes to solve difficult problems and gain better results with less hassle.<br clear="both">
 
@@ -54,7 +54,7 @@ title: CoDe OSL 2015 - speakers
 
 ###### Senior Software Craftsman, Atmel Norway
 
-#### Speak [On the way towards the vision of DevOps]({{site.root}}/program#vision)
+#### Speak [On the Way Towards the Vision of DevOps]({{site.root}}/program#vision)
 
 ![Per Arnold Blaasmo]({{site.root}}/images/speakers/parnold.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.
 
