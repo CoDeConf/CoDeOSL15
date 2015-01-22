@@ -20,14 +20,14 @@ Research shows that for a typical system, more than half of all the features are
 
 For most software development teams it is a major challenge keeping up with the rapidly changing requirements, while delivering quality software within budget and deadlines. Implementing Agile or Lean methods is a step in the right direction, but many teams find out that this doesn't really solve the problems. This presentation give a comprehensive introduction to the multifaceted landscape of Continuous Delivery, argue why it is an important part of the solution, and present some successful real-life implementations of a full Continuous Delivery automation. Based on Praqma's CD maturity model the presentation will demonstrate how the ability to continuously deliver working software requires a certain level of maturity in software development processes.
 
-## Peer reviews are for sissies
+## Peer Reviews Are For Sissies
 {: #sissies}
 
 ######[Lars Kruse]({{site.root}}/speakers#lkruse), Praqma
 
 Peer reviews are not a silver bullet. They often introduce validation in the QA process at a time where verification is really what's needed. Peer reviews represent unplanned work as well as queued work processes. The alternative: to automate your Continuous Delivery pipeline to an extend where you actually trust it to implement your definition of done - now that's lean!
 
-## Game changing beliefs
+## Game Changing Beliefs
 {: #gamechanging}
 
 ######[Morten Elvang]({{site.root}}/speakers#elvang), DELTA
@@ -41,7 +41,7 @@ How can you create an organization where it's possible to have success with CoDe
 
 Introducing DevOps as a methodology for delivering business value into an existing organization has many challanges. One of the largest being that of going against long established norms and processes. In the presentation, 'DevOps and Moving the Elephant', I will present a brief history of the progress made within Maersk Line IT and now Maersk Group IS that have helped make the difference in being able to anchor critical changes in how IT infrastructure is delivered and managed using DevOps methods.
 
-## On the way towards the vision of DevOps
+## On the Way Towards the Vision of DevOps
 {: #vision}
 
 ######[Per Arnold Blaasmo]({{site.root}}/speakers#blaasmo), Atmel Norway
