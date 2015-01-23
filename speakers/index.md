@@ -31,15 +31,6 @@ title: CoDe OSL 2015 - speakers
 
 ![Morten Elvang]({{site.root}}/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and blogger at 42stc. Earlier Morten has been with Nokia, Simcorp, and CRI. He received his MSc and Ph.d. in Computer Science from the Technical University of Denmark. Morten has helped product and service development teams of all sizes to solve difficult problems and gain better results with less hassle.<br clear="both">
 
-## Florin Iten
-{: #iten}
-
-###### Managing Partner, QACube
-
-#### Speak [DevOps Agility: Lifecycle Reporting & Dashboards]({{site.root}}/program#agility)
-
-![Florin Iten]({{site.root}}/images/speakers/florin.jpg){: .portrait} Florin Iten serves as the Managing Partner of QACube, which was founded in 2014 to deliver analytics and C-level views across the software delivery lifecycle. Additionally Florin serves as CEO and Founder of ESGroup and CFO and Founder of Sixsentix. Florin is an active innovator and serial entrepreneur in Software DevOps and reporting and an expert in keeping pace with apps.
-
 ## Chris Gargiulo
 {: #gargiulo}
 
