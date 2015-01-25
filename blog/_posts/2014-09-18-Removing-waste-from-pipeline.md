@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Removing waste from pipeline
-tags: [Continuous Delivery]
-authors: [Michiel Sens]
+layout:    post
+title:     Removing waste from pipeline
+tags:      [Continuous Delivery]
+authors:   [Michiel Sens]
+published: false
 ---
 
 ## Continuous Delivery is about removing waste from the Software Delivery Pipeline

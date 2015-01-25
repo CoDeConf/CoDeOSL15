@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Continuous Delivery Maturity
-tags: [Continuous Delivery]
-authors: [Lars Kruse]
+layout:     post
+title:      Continuous Delivery Maturity
+tags:       [Continuous Delivery]
+authors:    [Lars Kruse]
+published:  false
 ---
 
 ## Continuous Delivery Maturity

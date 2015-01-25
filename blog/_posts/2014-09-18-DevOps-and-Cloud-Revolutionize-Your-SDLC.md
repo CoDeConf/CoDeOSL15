@@ -1,8 +1,9 @@
 ---
-layout: post
-title: Revolutionize Your SDLC
-tags: [DevOps]
-authors: [Andi Mann]
+layout:    post
+title:     Revolutionize Your SDLC
+tags:      [DevOps]
+authors:   [Andi Mann]
+published: false
 ---
 
 ## DevOps and Cloud: Tips and Techniques to Revolutionize Your SDLC
