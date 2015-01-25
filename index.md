@@ -3,6 +3,8 @@ layout: front
 title: CoDe OSL Conference 2015 Front
 ---
 
+![codeosl](./images/CoDeOSL_TOP2.jpg){: style="width:0px; height:0px;"}
+
 #Continuous Delivery & DevOps Conference
 
 ##In the heart of Oslo.
@@ -10,8 +12,7 @@ __April 29th, 2015 at The Bristol Hotel Oslo.__
 
 ######Oslo now got its own conference on Continuous Delivery & DevOps. The conference name <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> is referring to Continuous Delivery and at the same time indicates what we're dealing with; software development.
 
-<a href="http://cdmi.praqma.net/">
-<img src="{{site.root}}/images/maturity_model_web.png" class="stdright" style="width:500."></a>
+[![cdmaturity]({{site.root}}/images/maturity_model_web.png){: .stdright style="width:500."}](http://cdmi.praqma.net/){: target="_blank"}
 
 ##This event is relevant to:
 IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.
