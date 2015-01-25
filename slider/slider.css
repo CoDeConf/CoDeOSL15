@@ -123,6 +123,18 @@ html[xmlns] .slides {
     text-indent: -999em;
 }
 
+.flex-direction-nav li a {
+    width: 20px;
+    height: 20px;
+    margin: -16px 0 0;
+    display: block;
+    background: url(./directionbg2.png) no-repeat;
+    position: absolute;
+    bottom: 10px;
+    cursor: pointer;
+    text-indent: -999em;
+}
+
 .flex-direction-nav li .next {
     background-position: -20px 0;
     right: 8px;
@@ -163,6 +175,13 @@ html[xmlns] .slides {
     background: url(./bg_control_nav.png) no-repeat;
     cursor: pointer;
     text-indent: -999em;
+}
+
+nocontrol .flex-control-nav li a{
+    width: 13px;
+    height: 13px;
+    display: none;
+    background-image: none;
 }
 
 .flex-control-nav li a:hover {
