@@ -13,15 +13,6 @@ title: CoDe OSL 2015 - speakers
 
 ![Jan Bosch]({{site.root}}/images/speakers/jbosch.jpg){: .portrait} Jan Bosch is professor of software engineering and director of the software research center at Chalmers University Technology in Gothenburg, Sweden. Earlier, he worked as Vice President Engineering Process at Intuit Inc where he also lead Intuit's Open Innovation efforts and headed the central mobile technologies team. Before Intuit, he was head of the Software and Application Technologies Laboratory at Nokia Research Center, Finland. Before joining Nokia, he headed the software engineering research group at the University of Groningen, The Netherlands, where he holds a professorship in software engineering. He holds a MSc degree from the University of Twente, The Netherlands, and a PhD degree from Lund University, Sweden.
 
-## Lars Kruse
-{: #lkruse}
-
-###### Continuous Delivery Coach, Praqma
-
-#### Speaks: [Continuous Delivery Maturity]({{site.root}}/program#cdmaturity) & [Peer Reviews Are For Sissies]({{site.root}}/program#sissies)
-
-![Lars Kruse]({{site.root}}/images/speakers/lars_kruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.<br clear="both">
-
 ## Morten Elvang
 {: #elvang}
 
@@ -30,24 +21,6 @@ title: CoDe OSL 2015 - speakers
 #### Speak [Game Changing Beliefs]({{site.root}}/program#gamechanging)
 
 ![Morten Elvang]({{site.root}}/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and blogger at 42stc. Earlier Morten has been with Nokia, Simcorp, and CRI. He received his MSc and Ph.d. in Computer Science from the Technical University of Denmark. Morten has helped product and service development teams of all sizes to solve difficult problems and gain better results with less hassle.<br clear="both">
-
-## Chris Gargiulo
-{: #gargiulo}
-
-###### Head of DevOps and Enterprise Service Platforms, Maersk Group Infrastructure Services
-
-#### Speak [DevOps and Moving the Elephant]({{site.root}}/program#elephant)
-
-![Chris Gargiulo]({{site.root}}/images/speakers/cgargiulo.jpg){: .portrait} Chris Gargiulo has worked in the IT industry for the past 20 years. Having worked in areas such technology training, application delivery, business platform development and operations. Throughout this career he has held several leadership positions, including his current role as head of DevOps and Enterprise Platform Services in Maersk Group IS. Over the last four years, while working for Maersk, he has established and built a broad DevOps organization that is located across three different countries in Europe and Asia. He is also a strong believer that the key to making DevOps work for an existing organization, you must prove yourself at every step along the way. This is what is called moving the elephant.
-
-## Per Arnold Blaasmo
-{: #blaasmo}
-
-###### Senior Software Craftsman, Atmel Norway
-
-#### Speak [On the Way Towards the Vision of DevOps]({{site.root}}/program#vision)
-
-![Per Arnold Blaasmo]({{site.root}}/images/speakers/parnold.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.
 
 ## Austin Bingham
 {: #bingham}
