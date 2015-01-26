@@ -10,17 +10,14 @@ title: CoDe OSL Conference 2015 Front
 ##In the heart of Oslo.
 __April 29th, 2015 at The Bristol Hotel Oslo.__
 
-######Oslo now got its own conference on Continuous Delivery & DevOps. The conference name <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> is referring to Continuous Delivery and at the same time indicates what we're dealing with; software development.
+######The Continuous Delivery & DevOps conference gathers IT executives, managers, software architects & developers for a day of inspiring speaks and intensive knowledge exchange on the latest trends on delivering quality software.
 
-[![cdmaturity]({{site.root}}/images/maturity_model_web.png){: .stdright style="width:500."}](http://cdmi.praqma.net/){: target="_blank"}
+[![Continuous Delivery Storyline](images/cdstoryline.jpg){: .stdright style="width:500."}](http://www.praqma.com/sites/default/files/img/cdmaturity_5.swf){: target="_blank"}
 
-##This event is relevant to:
-IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.
+<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> brings together technologists and industry leaders who are passionate about innovation through Continuous Delivery and DevOps. We'll be exploring the multi-faceted area of `CoDe` covering the entire Continuous Delivery storyline and the many changes that impact how to produce and deliver quality software today.
 
-<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Whether you're already deep into CoDe</span> or you're just scratching the surface and want to understand the role of Continuous Delivery, and DevOps in achieving the goals of agility, built-in-quality and time-to-market in software development - `CoDe` is for YOU.
+Whether you’re well on your way to adopt CoDe practices in your organization, or just scratching the surface, `CoDe` is the place to learn the natural next step need in your Continuous Delivery journey.
 
-Continuous Delivery and DevOps are all about implementing the agile principles for real: ___"implement your definition of done"___. How did you do it? How did others do it? What are best practices? Meet-up with peers for new experiences, knowledge sharing, networking and inspiring speaks that cover all of the multi-faceted area of `CoDe`.
+`CoDeOSL` seeks to provide inspiring and actionable information for key decision makers responsible for products and services that depend on software. See what worked, what didn’t, what are best practices, and what value `CoDe` can bring to the business.
 
 How good is your Continuous Delivery Kung Fu? Do the <a href="http://cdmi.praqma.net" target="_blank">online self-assessment</a> and come to the conference to either teach or learn - or both.
-
-__This is going to be a reoccurring yearly conference - join us from the beginning - don't miss a beat.__
