@@ -12,7 +12,7 @@ __April 29th, 2015 at Hotel Bristol Oslo.__
 
 ######The Continuous Delivery & DevOps conference gathers IT executives, managers, software architects & developers for a day of inspiring speaks and intensive knowledge exchange on the latest trends on delivering quality software.
 
-[![Continuous Delivery Storyline](images/cdstoryline.jpg){: .stdright style="width:500."}](http://www.praqma.com/sites/default/files/img/cdmaturity_5.swf){: target="_blank"}
+[![Continuous Delivery Storyline](images/cdstoryline.jpg){: .stdright style="width:500."}](http://www.praqma.com/cdmaturity){: target="_blank"}
 
 <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> brings together technologists and industry leaders who are passionate about innovation through Continuous Delivery and DevOps. We'll be exploring the multi-faceted area of `CoDe` covering the entire Continuous Delivery storyline and the many changes that impact how to produce and deliver quality software today.
 
