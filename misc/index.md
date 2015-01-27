@@ -16,7 +16,7 @@ Continuous Delivery allows you to get new features and capabilities to market fa
 
 DevOps is a movement designed to facilitate the collaboration between development and IT operations to bring the portfolio of IT technology and applications forward in a cadence of faster, more predictable releases that support positive business outcomes.
 
-Hear about the latest development and best practices from the front runners and trend setters in the Continuous Delivery world. Enjoy the perfect venue at [The Bristol Hotel](http://www.thonhotels.com/hotels/countrys/norway/oslo/thon-hotel-bristol1/conference/) and meet your peers for new experiences, knowledge sharing, and network. <br/>
+Hear about the latest development and best practices from the front runners and trend setters in the Continuous Delivery world. Enjoy the perfect venue at [Hotel Bristol](http://www.thonhotels.com/hotels/countrys/norway/oslo/thon-hotel-bristol1/conference/) and meet your peers for new experiences, knowledge sharing, and network. <br/>
 
 <a href="http://cdmi.praqma.net/">
 Is your company mature? Take the test
@@ -25,12 +25,12 @@ Is your company mature? Take the test
 <img src="{{site.root}}/images/maturity_model_web.png" class="stdcenter" style="width:600.">
 </a><br/>
 
-###Parking at The Bristol Hotel<br/>
+###Parking at Hotel Bristol<br/>
 
 If you come by car, you have the opportunity to use the exclusive valet parking service offer by the parking garage Bristolgarasjen. Park your car at the front of the hotel, check in at the reception and please tell the receptionist that you wish parking. Our parking staff will pick up, park and take care of your car during your stay. Parking in Bristolgarasjen costs from NOK 380,- per day.
 
 ###Accommodation<br/>
-Please let us know if you are planning to stay at The Bristol Hotel and we will be happy to assist you with any reservations. For assistance please [send us a mail.](mailto:ah@praqma.net)
+Please let us know if you are planning to stay at Hotel Bristol and we will be happy to assist you with any reservations. For assistance please [send us a mail.](mailto:ah@praqma.net)
 
 ###Information to sponsors<br/>
 Delivery of stand material can be sent to the event venue. All items must have the following information clearly indicated: Conference name: “Continuous Delivery & DevOps Conference”, name of the exhibiting company, number of pieces, and name of the person in charge of the stand.<br/>

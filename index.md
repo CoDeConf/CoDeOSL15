@@ -8,7 +8,7 @@ title: CoDe OSL Conference 2015 Front
 #Continuous Delivery & DevOps Conference
 
 ##In the heart of Oslo.
-__April 29th, 2015 at The Bristol Hotel Oslo.__
+__April 29th, 2015 at Hotel Bristol Oslo.__
 
 ######The Continuous Delivery & DevOps conference gathers IT executives, managers, software architects & developers for a day of inspiring speaks and intensive knowledge exchange on the latest trends on delivering quality software.
 
