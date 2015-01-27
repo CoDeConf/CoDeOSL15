@@ -52,7 +52,7 @@ a.sponsorbox:hover {
 
 a.sponsorbox.host, a.sponsorbox.host:hover{
    background-size: 315px;
-   width: 315px;
+   width: 314px;
    height: 61px;
    padding-top:166px /* height of image + the padding from a.sponsorbox*/
 }

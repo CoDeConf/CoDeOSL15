@@ -16,6 +16,11 @@ __April 29th, 2015 at Hotel Bristol Oslo.__
 
 <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> brings together technologists and industry leaders who are passionate about innovation through Continuous Delivery and DevOps. We'll be exploring the multi-faceted area of `CoDe` covering the entire Continuous Delivery storyline and the many changes that impact how to produce and deliver quality software today.
 
+![Continuous Delivery Storyline]({{site.root}}/images/cdstoryline.jpg){: .stdcenter}
+
+
+(http://www.praqma.com/cdmaturity){: target="_blank"}
+
 <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Whether you’re well on your way to adopt CoDe</span> practices in your organization, or just scratching the surface, `CoDe` is the place to learn the natural next step need in your Continuous Delivery journey.
 
 `CoDeOSL` seeks to provide inspiring and actionable information for key decision makers responsible for products and services that depend on software. **_See what worked, what didn’t, what are best practices, and what value `CoDe` can bring to your business_.**
