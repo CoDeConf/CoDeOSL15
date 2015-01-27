@@ -18,6 +18,6 @@ __April 29th, 2015 at Hotel Bristol Oslo.__
 
 <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Whether you’re well on your way to adopt CoDe</span> practices in your organization, or just scratching the surface, `CoDe` is the place to learn the natural next step need in your Continuous Delivery journey.
 
-`CoDeOSL` seeks to provide inspiring and actionable information for key decision makers responsible for products and services that depend on software. **_See what worked, what didn’t, what are best practices, and what value `CoDe` can bring to the business_.**
+`CoDeOSL` seeks to provide inspiring and actionable information for key decision makers responsible for products and services that depend on software. **_See what worked, what didn’t, what are best practices, and what value `CoDe` can bring to your business_.**
 
 How good is your Continuous Delivery Kung Fu? Do the <a href="http://cdmi.praqma.net" target="_blank">online self-assessment</a> and come to the conference to either teach or learn - or both.
