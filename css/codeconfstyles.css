@@ -171,7 +171,13 @@ header a.menu:hover {
 
 }
 
-
+.inverted{
+  background:#4b4b4b;
+  color:#FFFFFF;
+  padding:2px;
+  font-style: normal;
+  font-weight: normal;
+}
 
 
 #content-wrapper {
@@ -365,6 +371,11 @@ a {
    width:300px;
 }
 
+.stdright#big, .stdleft#big, .stdcenter#big {
+   width:500px;
+}
+
+
 
 .portrait {
    width:75px;
@@ -386,7 +397,9 @@ a {
    margin-right: auto;
    margin-bottom: 20px;
    margin-top: 0px;
+   display:block;
 }
+
 
 p a {
   font-weight: 400;
