@@ -32,7 +32,7 @@ With more than 300 members [CoDeU](http://codeu.eu){: target="_blank"} has becom
 ####The Deal
 
 * An exclusive group ticket valid for 5 people at twice the price of ordinary tickets
-* Simply purchase the sponsorship online [Community Sponsorship](http://codecph.eventbrite.com){: target="_blank"}
+* Simply purchase the sponsorship online [Community Sponsorship](https://codeosl15.eventbrite.com){: target="_blank"}
 * The possibility to donate a raffle prize of your choice
 
 ####Benefits:
