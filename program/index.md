@@ -87,4 +87,4 @@ Reviews are a powerful tool for building quality software, but it can sometimes 
 
 ######[Tore Martin Hagen]({{site.root}}/speakers#thagen), WesternGeco
 
-We all know that continuous deployment can help accelerate product development, but how  does that work when you are building large scale embedded systems? When there are no  off-the-shelf tools or best practices, you have to figure it all out for yourself. This talk will  explain the challenges of building a continuous delivery system in this context, describe  specific solutions to them, and show how a large scale hardware system enabled a complex  multi-year development project.
+The Nessi6 is Schulmbergers largest project ever. The embedded SW part has ran for 10 years with a team of up to 10 people. In this talk we will hear about how the use of continues delivery and automatic HW testing has enabled this large project.
