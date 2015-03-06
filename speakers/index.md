@@ -11,7 +11,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [Keynote, TBA]({{site.root}}/program#)
 
-![ Georg Von Sperling]({{site.root}}/images/speakers/gsperling.jpg){: .portrait} Georg von Sperling is an avid DevOps and Automation Evangelist personally and at CA Technologies. He a firm believer in operationalizing development, right-shifting organizations, unleashing the true business value of IT organizations, effectiveness over efficiency, quality over quantity, teamwork over silos, karma, openness, and honesty. His career has traversed software development, process engineering, consulting and business development. Born in Moscow, grew up in East-Berlin, US-American since 1990, living in Germany again as of 2011.
+![ Georg Von Sperling]({{site.root}}/images/speakers/gsperling.jpg){: .portrait} Georg von Sperling is an avid DevOps and Automation Evangelist personally and at CA Technologies. He's a firm believer in operationalizing development, right-shifting organizations, unleashing the true business value of IT organizations, effectiveness over efficiency, quality over quantity, teamwork over silos, karma, openness, and honesty. His career has traversed software development, process engineering, consulting and business development. Born in Moscow, grew up in East-Berlin, US-American since 1990, living in Germany again as of 2011.
 
 ## Jan Bosch
 {: jbosch}
@@ -29,7 +29,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [Feedback-driven Product Development]({{site.root}}/program#feedback)
 
-![Olve Maudal]({{site.root}}/images/speakers/omaudal.jpg){: .portrait} works for Cisco Systems where he is involved in developing collaboration solutions and telepresence technology. He loves to write code, but he is just as interested in how software is developed as what it actually does. Main interests are C, C++, TDD, secure coding, software architecture. Olve is based in Oslo.
+![Olve Maudal]({{site.root}}/images/speakers/omaudal.jpg){: .portrait} Olve Maudal works for Cisco Systems where he is involved in developing collaboration solutions and telepresence technology. He loves to write code, but is just as interested in how software is developed as to what it actually does. Main interests are C, C++, TDD, secure coding, software architecture. Olve is based in Oslo.
 
 ## Seb Rose
 {: #srose}
@@ -38,7 +38,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [Estimates and Continuous Delivery]({{site.root}}/program#estimates)
 
-![Seb Rose]({{site.root}}/images/speakers/srose.jpg){: .portrait} Seb has been involved in the full development lifecycle with experience that ranges from Architecture to Support, from BASIC to Ruby. Recently he has been helping teams adopt and refine their agile practices, with a particular focus on automated testing. Seb is a regular speaker at conferences and occasional contributor to software journals. Contributing author to “97 Things Every Programmer Should Know” (O’Reilly) and lead author of The Cucumber for Java Book (Pragmatic Programmers).  
+![Seb Rose]({{site.root}}/images/speakers/srose.jpg){: .portrait} Seb Rose has been involved in the full development lifecycle with experience ranging from Architecture to Support and from BASIC to Ruby. Recently he has been helping teams adopt and refine their agile practices, with a particular focus on automated testing. Seb is a regular speaker at conferences and occasional contributor to software journals. Contributing author to “97 Things Every Programmer Should Know” (O’Reilly) and lead author of The Cucumber for Java Book (Pragmatic Programmers).  
 
 ## Mike Long
 {: #mlong}
@@ -73,7 +73,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [Operational Excellence in Multi-disciplinary Product Development]({{site.root}}/program#excellence)
 
-![Dag Arne Brænd]({{site.root}}/images/speakers/dbrænd.jpg){: .portrait} Dag Arne Braand is the Chief Operating Officer for Novelda, responsible for setting up the operational flow for Novelda's new presence and vital signs sensor technology. His previous experience includes 14 years working as Senior Director for Atmel, responsible for the Microcontroller development toolchain and HW reference designs. This included Atmel Studio development environment, hardware debuggers, microcontroller & wireless reference designs, serving a user community of > 100.000 developers and > 250.000 kits annually. Dag Arne graduated with an M.Sc EE From NTH.
+![Dag Arne Brænd]({{site.root}}/images/speakers/dbrænd.jpg){: .portrait} Dag Arne Braand is the Chief Operating Officer for Novelda. He is responsible for setting up the operational flow for Novelda's new presence and vital signs sensor technology. His previous experience includes 14 years working as Senior Director for Atmel, responsible for the Microcontroller development toolchain and HW reference designs. This included Atmel Studio development environment, hardware debuggers, microcontroller & wireless reference designs, serving a user community of > 100.000 developers and > 250.000 kits annually. Dag Arne graduated with an M.Sc EE From NTH.
 
 ## Per Arnold Blaasmo
 

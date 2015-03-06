@@ -26,37 +26,35 @@ using today, before discussing what you need to consider if you want to set up a
 
 ######[Seb Rose]({{site.root}}/speakers#srose), Consultant & Coach
 
-Estimates are slippery things at the best of times, but they get a whole lot more slippery when combined with continuous delivery.
-In this session we discover that there is more than one kind of estimate and examine how they are typically used in an agile context. We'll then dig a bit deeper to see how continuous delivery affects our approach, and whether there are any responsible alternatives to estimation.
-Along the way I hope to play a game or two with you, so be prepared to have some fun with estimates.
+Estimates are slippery things at the best of times, but they get a whole lot more slippery when combined with continuous delivery. In this session we discover that there is more than one kind of estimate and examine how they are typically used in an agile context. We'll then dig a bit deeper to see how continuous delivery affects our approach, and whether there are any responsible alternatives to estimation. Along the way I hope to play a game or two with you, so be prepared to have some fun with estimates.
 
 ## All unicorns were once horses (and some were donkeys before that)
 {: #unicorns}
 
 ######[Mike Long]({{site.root}}/speakers#mlong), Praqma Norway
 
-One of the most widely help beliefs about devops is that it applies "only for startups and  unicorns". We think of all the success stories from Google, Amazon, Etsy, and Flickr and  conclude that all the best-in-class companies were born as "unicorns", with devops in their  DNA.  But when we look at the paths these companies have forged a different story emerges. A  story of ambition, commitment, and determination to overcome real and difficult barriers in  technology and culture. The truth is that all unicorns were once horses. And some were  donkeys before that.  This presentation will bust common myths about Continuous Delivery and look at what it  takes to transform a donkey to a market-leading unicorn.
+One of the most widely held beliefs about DevOps is that it applies "only for startups and unicorns". We think of all the success stories from Google, Amazon, Etsy, and Flickr and conclude that all the best-in-class companies were born as "unicorns", with DevOps in their DNA. However, when we look at the paths these companies have forged a different story emerges. A story of ambition, commitment, and determination to overcome real and difficult barriers in technology and culture. The truth is that all unicorns were once horses - and some were  donkeys before that. This presentation will bust common myths about Continuous Delivery and look at what it  takes to transform a donkey to a market-leading unicorn.
 
 ## DevOps and Moving the Elephant
 {: #elephant}
 
 ######[Chris Gargiulo]({{site.root}}/speakers#cgargiulo), Maersk Group
 
-Introducing DevOps as a methodology for delivering business value into an existing organization has many challanges. One of the largest being that of going against long established norms and processes. In the presentation, ‘DevOps and Moving the Elephant’, I will present a brief history of the progress made within Maersk Line IT and now Maersk Group IS that have helped make the difference in being able to anchor critical changes in how IT infrastructure is delivered and managed using DevOps methods.
+Introducing DevOps as a methodology for delivering business value into an existing organization has many challanges. One of the largest being that of going against long established norms and processes. In the presentation, ‘DevOps and Moving the Elephant’, I will present a brief history of the progress made within Maersk Line IT and now Maersk Group IS that has helped make the difference in being able to anchor critical changes in how IT infrastructure is delivered and managed using DevOps methods.
 
 ## Game Changing Beliefs
 {: #gamechanging}
 
 ######[Morten Elvang]({{site.root}}/speakers#elvang), DELTA
 
-How can you create an organization where it's possible to have success with CoDe and devops? Imagine you can chose to believe in something and that choosing the right things can fundamentally change your luck in business? Is this at all a useful way to go about creating an effective and supportive organization? And, if so, what should you chose to believe in?
+How can you create an organization where it's possible to have success with CoDe and DevOps? Imagine you can chose to believe in something and that choosing the right things can fundamentally change your luck in business? Is this at all a useful way to go about creating an effective and supportive organization? And, if so, what should you chose to believe in?
 
 ## Operational Excellence in Multi-disciplinary Product Development
 {: #execellence}
 
 ######[Dag Arne Brænd]({{site.root}}/speakers#dbrænd), Novelda
 
-Answering the following questions from an industrial point of view:  How do you develop, control and maintain and advanced SW codebase that distributes and  ships into multiple HW products?  How does Continuous Delivery of SW fit into such an environment?  How do you set-up a SW quality toolchain chain that starts with design and ends up in a product at the customers desk?
+Answering the following questions from an industrial point of view: How do you develop, control, and maintain an advanced SW codebase that distributes and ships into multiple HW products? How does Continuous Delivery of SW fit into such an environment? How do you set-up a SW quality toolchain that starts with design and ends up in a product at the customers desk?
 
 ## On the way towards the vision of DevOps
 {: #vision}
@@ -65,15 +63,13 @@ Answering the following questions from an industrial point of view:  How do you 
 
 A talk about the challenges and experiences for Atmel when moving from a Waterfall model to a DevOps model with Continuous Deployment, when doing software development in a global company.
 
-## What does continuous delivery demand of me as a person?
+## What does Continuous Delivery demand of me as a person?
 {: #demand}
 
 ######[Mark Coleman]({{site.root}}/speakers#mcoleman), Implicit- Explicit
 
-Anyone looking to learn more about Continuous Delivery can find reams of information; from  tooling to organisational design, it seems that all topics are covered by an ever growing  amount of information in books and online.
-Over the last 5 years I've introduced continuous delivery to several teams, and in every  single project, the biggest hurdle to be overcome is not one of insufficient knowledge, but  one of personality.
-Quite simply, if your team were already mature enough to implement continuous delivery,  and if continuous delivery were the solution to a problem they were facing, they would have  already implemented it. If you're struggling to implement continuous delivery then, that can only tell you one of two  things: 1. Your team is not mature enough. 2. Continuous Delivery is not the solution to your problem.
-In this talk we will assume that continuous delivery is the solution to your problem and will  discover through various stories which character traits should be present in your team  members if they are to build and deliver cutting edge software. We will conclude with  suggestions on how to build such a team. This is a non-technical talk for anyone who is managing, or is a member of, a team who are  trying to implement continuous delivery.
+Anyone looking to learn more about Continuous Delivery can find reams of information; from tooling to organisational design, it seems that all topics are covered by an ever growing  amount of information in books and online. Over the last 5 years I've introduced Continuous Delivery to several teams, and in every single project, the biggest hurdle to be overcome is not one of insufficient knowledge, but one of personality. Quite simply, if your team were already mature enough to implement Continuous Delivery, and if Continuous Delivery were the solution to a problem they were facing, they would have already implemented it. If you're struggling to implement Continuous Delivery then, that can only tell you one of two things: 1. Your team is not mature enough. 2. Continuous Delivery is not the solution to your problem.
+In this talk we will assume that Continuous Delivery is the solution to your problem and will discover through various stories, which character traits should be present in your team members if they are to build and deliver cutting edge software. We will conclude with suggestions on how to build such a team. This is a non-technical talk for anyone who is managing, or is a member of, a team who are trying to implement Continuous Delivery.
 
 ## Making the Case for Review
 {: #making}
@@ -87,4 +83,4 @@ Reviews are a powerful tool for building quality software, but it can sometimes 
 
 ######[Tore Martin Hagen]({{site.root}}/speakers#thagen), WesternGeco
 
-The Nessi6 is Schulmbergers largest project ever. The embedded SW part has ran for 10 years with a team of up to 10 people. In this talk we will hear about how the use of continues delivery and automatic HW testing has enabled this large project.
+The Nessi6 is Schulmbergers largest project ever. The embedded SW part has ran for 10 years with a team of up to 10 people. In this talk we will hear about how the use of Continuous Delivery and automatic HW testing have enabled this large project.
