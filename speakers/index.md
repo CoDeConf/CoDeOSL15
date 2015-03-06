@@ -47,7 +47,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [All unicorns were once horses (and some were donkeys before that)]({{site.root}}/program#unicorns)
 
-![Mike Long]({{site.root}}/images/speakers/mlong.jpg){: .portrait} As a DevOps and continuous delivery consultant, Mike's specialties include coaching and mentoring teams to adopt modern technical practices in hostile embedded and legacy environments. He holds over 10 years of professional software engineering experience, working in a variety of cultures and business domains. He considers software as a craft, and enjoys sharing the pursuit of technical excellence with fellow professionals.
+![Mike Long]({{site.root}}/images/speakers/mlong.jpg){: .portrait} As a DevOps and Continuous Delivery consultant, Mike's specialties include coaching and mentoring teams to adopt modern technical practices in hostile embedded and legacy environments. He holds over 10 years of professional software engineering experience, working in a variety of cultures and business domains. He considers software as a craft, and enjoys sharing the pursuit of technical excellence with fellow professionals.
 
 ## Chris Gargiulo
 {: #cgargiulo}
@@ -87,7 +87,7 @@ title: CoDe OSL 2015 - speakers
 
 ###### Continuous Delivery Consultant, Implicit-Explicit
 
-#### Speak [What does continuous delivery demand of me as a person?]({{site.root}}/program#demand)
+#### Speak [What does Continuous Delivery demand of me as a person?]({{site.root}}/program#demand)
 
 ![Mark Coleman]({{site.root}}/images/speakers/mcoleman.jpg){: .portrait} Mark Coleman is a freelance Continuous Delivery consultant, a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014. He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create and deliver software to their users. Mark lives in Amsterdam, the Netherlands.
 
