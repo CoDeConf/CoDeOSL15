@@ -29,7 +29,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [Feedback-driven Product Development]({{site.root}}/program#feedback)
 
-![Olve Maudal]({{site.root}}/images/speakers/omaudal.jpg){: .portrait} Olve Maudal works for Cisco Systems where he is involved in developing collaboration solutions and telepresence technology. He loves to write code, but is just as interested in how software is developed as to what it actually does. Main interests are C, C++, TDD, secure coding, software architecture. Olve is based in Oslo.
+![Olve Maudal]({{site.root}}/images/speakers/omaudal.jpg){: .portrait} Olve Maudal works for Cisco Systems where he is involved in developing collaboration solutions and telepresence technology. He loves to write code, but is just as interested in how software is developed as to what it actually does. Main interests are C, C++, TDD, secure coding, software architecture. Olve is based in Oslo.<br clear="both">
 
 ## Seb Rose
 {: #srose}
@@ -65,7 +65,11 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [DevOps or Die!]({{site.root}}/program#die)
 
+<<<<<<< HEAD
+![Stein Inge Morisbak]({{site.root}}/images/speakers/smorisbak.jpg){: .portrait} Stein Inge is Practice Lead for Continuous Delivery and Devops at BEKK. He is a true Agile evangelist with 15 years of experience in both contributing to, and helping others to become better at producing excellent software together with demanding customers. He is also an experienced speaker at conferences and the founder of DevOps Norway Meetup.<br clear="both">
+=======
 ![Stein Inge Morisbak]({{site.root}}/images/speakers/smorisbak.jpg){: .portrait} Stein Inge is Practice Lead for Continuous Delivery and Devops at BEKK. He is a true Agile evangelist with 15 years of experience in both contributing to, and helping others to become better at producing excellent software together with demanding customers. He is also an experienced speaker at conferences and the founder of DevOps Norway Meetup..<br clear="both">
+>>>>>>> 48795ca4c6b70601f9cf70c91945a098e9dcfc64
 
 ## Dag Arne Brænd
 {: #dbrænd}
