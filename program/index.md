@@ -42,12 +42,12 @@ One of the most widely held beliefs about DevOps is that it applies "only for st
 
 Introducing DevOps as a methodology for delivering business value into an existing organization has many challanges. One of the largest being that of going against long established norms and processes. In the presentation, ‘DevOps and Moving the Elephant’, I will present a brief history of the progress made within Maersk Line IT and now Maersk Group IS that has helped make the difference in being able to anchor critical changes in how IT infrastructure is delivered and managed using DevOps methods.
 
-## Game Changing Beliefs
-{: #gamechanging}
+## DevOps or Die!
+{: #die}
 
-######[Morten Elvang]({{site.root}}/speakers#elvang), DELTA
+######[Stein Inge Morisbak]({{site.root}}/speakers#smorisbak), Bekk Consulting AS
 
-How can you create an organization where it's possible to have success with CoDe and DevOps? Imagine you can chose to believe in something and that choosing the right things can fundamentally change your luck in business? Is this at all a useful way to go about creating an effective and supportive organization? And, if so, what should you chose to believe in?
+We are witnessing perhaps the most disruptive and innovative period in IT in our time. Those not transforming their IT organizations towards DevOps and Continuous Delivery (CD) risk being left behind to die. This talk will place DevOps and CD in a historical context and explain how and why this paradigm shift will radically change how businesses acquire customers and deliver value to them.
 
 ## Operational Excellence in Multi-disciplinary Product Development
 {: #execellence}

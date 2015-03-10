@@ -58,16 +58,17 @@ title: CoDe OSL 2015 - speakers
 
 ![Chris Gargiulo]({{site.root}}/images/speakers/cgargiulo.jpg){: .portrait} Chris Gargiulo has worked in the IT industry for the past 20 years. Having worked in areas such technology training, application delivery, business platform development and operations. Throughout this career he has held several leadership positions, including his current role as head of DevOps and Enterprise Platform Services in Maersk Group IS. Over the last four years, while working for Maersk, he has established and built a broad DevOps organization that is located across three different countries in Europe and Asia. He is also a strong believer that the key to making DevOps work for an existing organization, you must prove yourself at every step along the way. This is what is called moving the elephant.
 
-## Morten Elvang
-{: #elvang}
+## Stein Inge Morisbak
+{: #smorisbak}
 
 ###### Principal Consultant, DELTA
 
-#### Speak [Game Changing Beliefs]({{site.root}}/program#gamechanging)
+#### Speak [DevOps or Die!]({{site.root}}/program#die)
 
-![Morten Elvang]({{site.root}}/images/speakers/melvang.jpg){: .portrait} Morten Elvang is Principal Consultant with DELTA and blogger at 42stc. Earlier Morten has been with Nokia, Simcorp, and CRI. He received his MSc and Ph.d. in Computer Science from the Technical University of Denmark. Morten has helped product and service development teams of all sizes to solve difficult problems and gain better results with less hassle.<br clear="both">
+![Stein Inge Morisbak]({{site.root}}/images/speakers/smorisbak.jpg){: .portrait} Stein Inge is Practice Lead for Continuous Delivery and Devops at BEKK. He is a true Agile evangelist with 15 years of experience in both contributing to, and helping others to become better at producing excellent software together with demanding customers. He is also an experienced speaker at conferences and the founder of DevOps Norway Meetup..<br clear="both">
 
 ## Dag Arne Brænd
+{: #dbrænd}
 
 ###### Chief Operating Officer, Novelda
 
@@ -76,6 +77,7 @@ title: CoDe OSL 2015 - speakers
 ![Dag Arne Brænd]({{site.root}}/images/speakers/dbrænd.jpg){: .portrait} Dag Arne Braand is the Chief Operating Officer for Novelda. He is responsible for setting up the operational flow for Novelda's new presence and vital signs sensor technology. His previous experience includes 14 years working as Senior Director for Atmel, responsible for the Microcontroller development toolchain and HW reference designs. This included Atmel Studio development environment, hardware debuggers, microcontroller & wireless reference designs, serving a user community of > 100.000 developers and > 250.000 kits annually. Dag Arne graduated with an M.Sc EE From NTH.
 
 ## Per Arnold Blaasmo
+{: #pblaasmo}
 
 ###### Senior Software Craftsman, Atmel Norway
 
@@ -84,6 +86,7 @@ title: CoDe OSL 2015 - speakers
 ![Per Arnold Blaasmo]({{site.root}}/images/speakers/pblaasmo.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.
 
 ## Mark Coleman
+{: #mcoleman}
 
 ###### Continuous Delivery Consultant, Implicit-Explicit
 
