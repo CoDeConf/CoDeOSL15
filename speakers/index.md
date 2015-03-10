@@ -65,11 +65,16 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [DevOps or Die!]({{site.root}}/program#die)
 
-<<<<<<< HEAD
 ![Stein Inge Morisbak]({{site.root}}/images/speakers/smorisbak.jpg){: .portrait} Stein Inge is Practice Lead for Continuous Delivery and Devops at BEKK. He is a true Agile evangelist with 15 years of experience in both contributing to, and helping others to become better at producing excellent software together with demanding customers. He is also an experienced speaker at conferences and the founder of DevOps Norway Meetup.<br clear="both">
-=======
-![Stein Inge Morisbak]({{site.root}}/images/speakers/smorisbak.jpg){: .portrait} Stein Inge is Practice Lead for Continuous Delivery and Devops at BEKK. He is a true Agile evangelist with 15 years of experience in both contributing to, and helping others to become better at producing excellent software together with demanding customers. He is also an experienced speaker at conferences and the founder of DevOps Norway Meetup..<br clear="both">
->>>>>>> 48795ca4c6b70601f9cf70c91945a098e9dcfc64
+
+## Bertrand Besnard
+{: #bbesnard}
+
+###### DevOps Business Developer, Sopra Steria
+
+#### Speak [DevOps Success Key Factors]({{site.root}}/program#key)
+
+![Bertrand Besnard]({{site.root}}/images/speakers/bbesnard.jpg){: .portrait} Bertrand Besnard is a French Software Engineer who migrated to Oslo. He has since then been working on some of the biggest Norwegian projects as a DevOps such as NAV and Autosys. He is currently employed by Sopra Steria. He is also an author at www.devops.com. He is interested in process analysis and human interactions and travels the world to discover more cultures, and food, lots of food.
 
 ## Dag Arne Brænd
 {: #dbrænd}

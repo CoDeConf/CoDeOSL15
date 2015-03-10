@@ -49,6 +49,15 @@ Introducing DevOps as a methodology for delivering business value into an existi
 
 We are witnessing perhaps the most disruptive and innovative period in IT in our time. Those not transforming their IT organizations towards DevOps and Continuous Delivery (CD) risk being left behind to die. This talk will place DevOps and CD in a historical context and explain how and why this paradigm shift will radically change how businesses acquire customers and deliver value to them.
 
+## DevOps Sucess Key Factors
+{: #key}
+
+######[Bertrand Besnard]({{site.root}}/speakers#bbesnard), Sopra Steria
+
+Many are doing DevOps nowadays or thinking about it but DevOps is still an abstract notion.
+What makes a switch to DevOps a successful one?
+Through this presentation I will try, with the help of real life examples, to highlight what the key factors of good DevOps switch are.
+
 ## Operational Excellence in Multi-disciplinary Product Development
 {: #execellence}
 
