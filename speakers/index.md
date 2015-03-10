@@ -74,7 +74,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [DevOps Success Key Factors]({{site.root}}/program#key)
 
-![Bertrand Besnard]({{site.root}}/images/speakers/bbesnard.jpg){: .portrait} Bertrand Besnard is a French Software Engineer who migrated to Oslo. He has since then been working on some of the biggest Norwegian projects as a DevOps such as NAV and Autosys. He is currently employed by Sopra Steria. He is also an author at www.devops.com. He is interested in process analysis and human interactions and travels the world to discover more cultures, and food, lots of food.
+![Bertrand Besnard]({{site.root}}/images/speakers/bbesnard.jpg){: .portrait} Bertrand Besnard is a French Software Engineer who migrated to Oslo. He has since then been working on some of the biggest Norwegian projects as a DevOps such as NAV and Autosys. He is currently employed by Sopra Steria. He is also an author at www.devops.com. He is interested in process analysis and human interactions and travels the world to discover more cultures, and food, lots of food.<br clear="both">
 
 ## Dag Arne Brænd
 {: #dbrænd}
