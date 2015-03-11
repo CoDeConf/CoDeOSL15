@@ -48,6 +48,7 @@ title: CoDe OSL 2015 - speakers
 #### Speak [Unleash your features gradually]({{site.root}}/program#unleash)
 
 ![Ivar Østhus]({{site.root}}/images/speakers/iøsthus.jpg){: .portrait}Ivar ØsthusIvar is a software developer working at FINN.no. He is a curious full stack developer who is interested in everything from front-end stuff like JavaScript, HTML5, React JS and back-end stuff like REST, Node.js, Java and graph-databases.
+<br clear="both">
 
 ## Mike Long
 {: #mlong}
