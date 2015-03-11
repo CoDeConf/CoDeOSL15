@@ -122,11 +122,11 @@ title: CoDe OSL 2015 - speakers
 
 ![Austin Bingham]({{site.root}}/images/speakers/abingham.jpg){: .portrait} Austin is a founding director of Sixty North, a software consulting, training, and application development company. A native of Texas, in 2008 Austin moved to Stavanger, Norway where he helped develop industry-leading oil reservoir modeling software in C++ and Python. Prior to that he worked at National Instruments developing LabVIEW, at Applied Research Labs (Univ. of Texas at Austin) developing sonar systems for the U.S. Navy, and at a number of telecommunications companies. He is an experienced presenter and teacher, having spoken at numerous conferences, software groups, and internal corporate venues. Austin is also an active member of the Open Source community, contributing regularly to various Python and Emacs projects, and he’s the founder of Stavanger Software Developers, one of the largest and most active social software groups in Stavanger. Austin holds a Master of Science in Computer Engineering from the University of Texas at Austin.
 
-## Tore Martin Hagen
-{: #thagen}
+## Pardeep Sandhu
+{: #psandhu}
 
-###### Embedded SW Architect, WesternGeco
+###### Lead Build Engineer, Schlumberger
 
-#### Speak [Continuous Deployment to large scale embedded systems]({{site.root}}/program#largescale)
+#### Speak [Continous Delivery with Petrel - Large scale distributed application development]({{site.root}}/program#largescale)
 
-![Tore Martin Hagen]({{site.root}}/images/speakers/thagen.jpg){: .portrait} Tore Martin Hagen works as an Embedded Software Architect at Schlumberger WesternGeco. He has more then 15 years experience in the embedded SW industry where he has worked with telecommunication and seismic systems.
+![Pardeep Sandhu]({{site.root}}/images/speakers/psandhu.jpg){: .portrait} Pardeep is the lead build engineer for Petrel, the flagship product for Schlumberger Information Solutions. Petrel is developed by over 300 developers working in Technology centers around the globe. Pardeep provides critical input into integrating several different build systems in order to release Petrel on time. Pardeep initially joined Schlumberger as an IT engineer and moved on to become a build engineer. In this role, Pardeep has worked on a number of different software projects both on Windows and Linux and has provided input into licensing and security on several Schlumberger Information Solutions products. Pardeep has been based in the Norwegian Technology Center of Schlumberger since 2013.

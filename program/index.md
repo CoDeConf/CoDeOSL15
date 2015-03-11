@@ -94,9 +94,9 @@ In this talk we will assume that Continuous Delivery is the solution to your pro
 
 Reviews are a powerful tool for building quality software, but it can sometimes be difficult to convince your team to use them. In this presentation we’ll look at the research behind reviews, the benefits they can provide, and some best practices for using them effectively. Armed with this knowledge, you’ll be able to make informed decisions about - and strong arguments for - using reviews on your projects.
 
-## Continuous Deployment to large scale embedded systems
+## Continous Delivery with Petrel - Large scale distributed application development
 {: #largescale}
 
-######[Tore Martin Hagen]({{site.root}}/speakers#thagen), WesternGeco
+######[Pardeep Sandhu]({{site.root}}/speakers#psandhu), Schlumberger
 
-The Nessi6 is Schulmbergers largest project ever. The embedded SW part has ran for 10 years with a team of up to 10 people. In this talk we will hear about how the use of Continuous Delivery and automatic HW testing have enabled this large project.
+The Petrel E&P software platform has grown from 10 to hundreds of developers in the past 10 years. The developers work in many different geographical locations with different build process and source repositories. In this presentation I will show how we created a Continuous Delivery system using technology from TeamCity, WIX, Nuget and MSBuild. Using the new Continuous Delivery system reduced the time to create a released version of Petrel E&P platform installer from 5-7 days to 4 hours.

@@ -121,7 +121,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">15:05</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#making">Making the Case for Review</a><br /><em>Austin Bingham, Technical Director, Sixty North</em><br/>&nbsp;
     </div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#largescale">Continuous Deployment to large scale embedded systems</a><br /><em>Tore M. Hagen, SW Architect, WesternGeco</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#largescale">Continous Delivery with Petrel - Large scale distributed application development</a><br /><em>Pardeep Sandhu, Lead Build Engineer, Schlumberger</em></div>
   </div>
 
   <div class="agenda-row">
