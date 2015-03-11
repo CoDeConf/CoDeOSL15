@@ -5,7 +5,7 @@ title: CoDe OSL 2015 - speakers
 #CoDe OSL 2015 - speakers
 
 ## Georg von Sperling
-{: gsperling}
+{: #gsperling}
 
 ###### DevOps Evangelist, Automation Specialist, Over-caffeinated Perfectionist, CA Technologies
 
@@ -14,7 +14,7 @@ title: CoDe OSL 2015 - speakers
 ![ Georg Von Sperling]({{site.root}}/images/speakers/gsperling.jpg){: .portrait} Georg von Sperling is an avid DevOps and Automation Evangelist personally and at CA Technologies. He's a firm believer in operationalizing development, right-shifting organizations, unleashing the true business value of IT organizations, effectiveness over efficiency, quality over quantity, teamwork over silos, karma, openness, and honesty. His career has traversed software development, process engineering, consulting and business development. Born in Moscow, grew up in East-Berlin, US-American since 1990, living in Germany again as of 2011.
 
 ## Jan Bosch
-{: jbosch}
+{: #jbosch}
 
 ###### Professor of Software Engineering, Chalmers University of Technology
 
@@ -34,11 +34,20 @@ title: CoDe OSL 2015 - speakers
 ## Seb Rose
 {: #srose}
 
-###### Consultant, coach, designer, analyst and developer for over 30 years
+###### Consultant & Coach
 
 #### Speak [Estimates and Continuous Delivery]({{site.root}}/program#estimates)
 
-![Seb Rose]({{site.root}}/images/speakers/srose.jpg){: .portrait} Seb Rose has been involved in the full development lifecycle with experience ranging from Architecture to Support and from BASIC to Ruby. Recently he has been helping teams adopt and refine their agile practices, with a particular focus on automated testing. Seb is a regular speaker at conferences and occasional contributor to software journals. Contributing author to “97 Things Every Programmer Should Know” (O’Reilly) and lead author of The Cucumber for Java Book (Pragmatic Programmers).  
+![Seb Rose]({{site.root}}/images/speakers/srose.jpg){: .portrait} Seb Rose has been involved in the full development lifecycle with experience ranging from Architecture to Support and from BASIC to Ruby. Recently he has been helping teams adopt and refine their agile practices, with a particular focus on automated testing. Seb is a regular speaker at conferences and occasional contributor to software journals. Contributing author to “97 Things Every Programmer Should Know” (O’Reilly) and lead author of The Cucumber for Java Book (Pragmatic Programmers).
+
+## Ivar Østhus, FINN.no
+{: #iosthus}
+
+###### Lead Developer
+
+#### Speak [Unleash your features gradually]({{site.root}}/program#unleash)
+
+![Ivar Østhus]({{site.root}}/images/speakers/iøsthus.jpg){: .portrait}Ivar ØsthusIvar is a software developer working at FINN.no. He is a curious full stack developer who is interested in everything from front-end stuff like JavaScript, HTML5, React JS and back-end stuff like REST, Node.js, Java and graph-databases.
 
 ## Mike Long
 {: #mlong}
@@ -61,7 +70,7 @@ title: CoDe OSL 2015 - speakers
 ## Stein Inge Morisbak
 {: #smorisbak}
 
-###### Principal Consultant, DELTA
+###### Practice Lead Continuous Delivery and DevOps, Bekk Consulting
 
 #### Speak [DevOps or Die!]({{site.root}}/program#die)
 

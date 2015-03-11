@@ -28,6 +28,13 @@ using today, before discussing what you need to consider if you want to set up a
 
 Estimates are slippery things at the best of times, but they get a whole lot more slippery when combined with Continuous Delivery. In this session we discover that there is more than one kind of estimate and examine how they are typically used in an agile context. We'll then dig a bit deeper to see how Continuous Delivery affects our approach, and whether there are any responsible alternatives to estimation. Along the way I hope to play a game or two with you, so be prepared to have some fun with estimates.
 
+## Unleash your features gradually
+{: #unleash}
+
+######[Ivar Østhus]({{site.root}}/speakers#iosthus), Lead Developer, FINN.no
+
+At FINN.no we are 140 developers deploying code to production multiple times a day. We have a few web applications and a few hundred running micro-services in production and integrate code in production even before new features are ready for the end user. And when the feature is complete we gradually roll out the new feature to our end users. This allows us to verify the performance of the new feature and that it actually solves the user problem it targets. In this talk I will briefly introduce the feature toggle technique in general and how this allows us to separate deploy and release of new features. I will also introduce Unleash, an open source feature toggle system, we developed to solve this issue.
+
 ## All unicorns were once horses (and some were donkeys before that)
 {: #unicorns}
 
@@ -49,14 +56,14 @@ Introducing DevOps as a methodology for delivering business value into an existi
 
 We are witnessing perhaps the most disruptive and innovative period in IT in our time. Those not transforming their IT organizations towards DevOps and Continuous Delivery (CD) risk being left behind to die. This talk will place DevOps and CD in a historical context and explain how and why this paradigm shift will radically change how businesses acquire customers and deliver value to them.
 
-## DevOps Sucess Key Factors
+## DevOps Success Key Factors
 {: #key}
 
 ######[Bertrand Besnard]({{site.root}}/speakers#bbesnard), Sopra Steria
 
 Many are doing DevOps nowadays or thinking about it but DevOps is still an abstract notion.
 What makes a switch to DevOps a successful one?
-Through this presentation I will try, with the help of real life examples, to highlight what the key factors of good DevOps switch are.
+Through this presentation I will try, with the help of real life examples, to highlight what the key factors of a good DevOps switch are.
 
 ## Operational Excellence in Multi-disciplinary Product Development
 {: #execellence}
