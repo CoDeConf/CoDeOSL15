@@ -2,7 +2,7 @@
 layout: agenda
 title: CoDe & DevOps Conference
 ---
-#Continuous Delivery & DevOps Oslo - 2015
+#Continuous Delivery & DevOps Conference Oslo - 2015
 
 <div class="container">
   <div class="agenda-row">
@@ -23,132 +23,111 @@ title: CoDe & DevOps Conference
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">9:10</div>
+    <div class="agenda-column agenda-column-time timestamp">9:30</div>
     <div class="agenda-column agenda-1col agenda-item">
-      <a href="{{site.root}}/program/#devops">Keynote: xx </a><br />
-      <em>xx, CA Technologies</em>
+      <a href="{{site.root}}/program/#devops">Keynote: TBA</a><br />
+      <em>Georg Von Sperling, DevOps Evangelist &amp; Automation Specialist, CA Technologies</em>
     </div>
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">09:55</div>
+    <div class="agenda-column agenda-column-time timestamp">10:15</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
   </div>
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Branch Track - 45 Minutes per Session</div>
+    <div class="agenda-column agenda-1col agenda-header-item">Branch Track - 30 Minutes per Session</div>
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">10:10</div>
+    <div class="agenda-column agenda-column-time timestamp">10:35</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#cdmaturity">Continuous Delivery Maturity</a><br /><em>Lars Kruse, Praqma</em><br/>&nbsp;
+      <a href="{{site.root}}/program/#feedback">Feedback-driven Product Development</a><br /><em>Olve Maudal, Minister of Knowledge, Cisco</em><br/>&nbsp;
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#cdziggo">The Implementation of Continuous Delivery at Ziggo (UPC-Liberty Global)</a><br /><em>Michiel Sens, Xebia </em><br/>
+      <a href="{{site.root}}/program/#estimates">Estimates and Continuous Delivery</a><br /><em>Seb Rose, Consultant & Coach</em><br/>
     </div>
   </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">10:55</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
-  </div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time">&nbsp;</div>
-  <div class="agenda-column agenda-1col agenda-header-item">30 Minutes Per Session</div>
-</div>
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">11:05</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-
-    <a href="{{site.root}}/program#embedded">Title</a><br/><em>Presenter</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line">
-    <a href="{{site.root}}/program#sdlc">Title</a><br/><em>Presenter</em></div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">11:35</div>
+    <div class="agenda-column agenda-column-time timestamp">11:15</div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line">
+
+    <a href="{{site.root}}/program#unleash">Unleash your features gradually</a><br/><em>Ivar Østhus, Lead Developer, FINN.no</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line">
+    <a href="{{site.root}}/program#unicorns">All unicorns were once horses (and some were donkeys before that)</a><br/><em>Mike Long, Praqma</em></div>
+  </div>
+
+  <div class="agenda-row">
+    <div class="agenda-column agenda-column-time timestamp">11:45</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Lunch</strong></div>
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:20</div>
+    <div class="agenda-column agenda-column-time timestamp">12:30</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#vision"> On the Way Towards the Vision of DevOps</a><br /><em>Per Arnold Blaasmo, Atmel Norway</em>
+      <a href="{{site.root}}/program/#elephant"> DevOps and Moving the Elephant</a><br /><em>Chris Gargiulo, Maersk Group</em>
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#gamechanging">Game Changing Beliefs</a><br /><em>Morten Elvang, DELTA</em>
+      <a href="{{site.root}}/program/#die">DevOps or Die!</a><br /><em>Stein Inge Morisbak, Practice Lead for CD, Bekk Consulting</em>
     </div>
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">12:50</div>
+    <div class="agenda-column agenda-column-time timestamp">13:00</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
   </div>
 
 <div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">13:00</div>
+  <div class="agenda-column agenda-column-time timestamp">13:10</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="{{site.root}}/program#git">A Business Case for Git</a><br/><em>Nicola Paolucci, Atlassian</em></div>
+  <a href="{{site.root}}/program#key">DevOps Success Key Factors</a><br/><em>Bertrand Besnard, DevOps Business Developer, Sopra Steria</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
-  <a href="{{site.root}}/program#scale">DevOps at Scale</a><br/><em>Benjamin Wootton, Contino</em></div>
-</div>
-
-<div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">13:30</div>
-  <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
+  <a href="{{site.root}}/program#exellence">Operational Excellence in Multi-disciplinary Product Development</a><br/><em>Dag Arne Brænd, Chief Operating Officer, Novelda</em></div>
 </div>
 
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time timestamp">13:40</div>
+  <div class="agenda-column agenda-1col agenda-break"><strong>Swap track</strong></div>
+</div>
+
+<div class="agenda-row">
+  <div class="agenda-column agenda-column-time timestamp">13:50</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="{{site.root}}/program#elephant">DevOps and Moving the Elephant</a><br/><em>Chris Gargiulo, Maersk Group Infrastructure Services</em></div>
+  <a href="{{site.root}}/program#vision">On the way towards the vision of DevOps</a><br/><em>Per Arnold Blaasmo, Senior Software Craftsman, Atmel Norway</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="{{site.root}}/program#making">Making the Case for Review</a><br/><em>Austin Bingham, Sixty North</em></div>
+  <a href="{{site.root}}/program#demand">What does Continuous Delivery demand of me as a person?</a><br/><em>Mark Coleman, Continuous Delivery Consultant, Implicit-Explicit</em></div>
 </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">14:10</div>
+    <div class="agenda-column agenda-column-time timestamp">14:20</div>
     <div class="agenda-column agenda-1col agenda-break"><strong>Exhibition</strong></div>
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time">&nbsp;</div>
-    <div class="agenda-column agenda-1col agenda-header-item">Lightning Talks - 15 minutes per talk</div>
-  </div>  
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">14:55</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#sissies">Peer Reviews Are for Sissies</a><br /><em>Lars Kruse, Praqma</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#howto">Title</a><br /><em>Presenter</em></div>
+    <div class="agenda-column agenda-column-time timestamp">15:05</div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#making">Making the Case for Review</a><br /><em>Austin Bingham, Technical Director, Sixty North</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#largescale">Continuous Deployment to large scale embedded systems</a><br /><em>Tore Martin Hagen, Embedded SW Architect, WesternGeco</em></div>
   </div>
 
   <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:10</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Swap speaker</strong></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:15</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#agility">Title</a><br/><em>Presenter</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#xrayed">Title<br /></a><em>Presenter</em></div>
-  </div>
-
-  <div class="agenda-row">
-    <div class="agenda-column agenda-column-time timestamp">15:30</div>
-    <div class="agenda-column agenda-1col agenda-break"><strong>Merge tracks</strong></div>
+    <div class="agenda-column agenda-column-time timestamp">15:35</div>
+    <div class="agenda-column agenda-1col agenda-break"><strong>Break</strong></div>
   </div>
 
 <div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">15:40</div>
+  <div class="agenda-column agenda-column-time timestamp">15:55</div>
   <div class="agenda-column agenda-1col agenda-item">
     <a href="{{site.root}}/program/#usingcd">Keynote: Using Continuous Delivery to Build Products Customers Actually Use</a><br />
     <em>Jan Bosch, Professor of Software Engineering, Chalmers University of Technology</em>
@@ -156,12 +135,12 @@ title: CoDe & DevOps Conference
 </div>
 
 <div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">16:25</div>
+  <div class="agenda-column agenda-column-time timestamp">16:40</div>
 
   <div class="agenda-column agenda-1col agenda-item"><a href="{{site.root}}/program/#panel">Panel Discussion - All Presenters on Stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@codeosl</a> during the day</em></div>
 
 
 <div class="agenda-row">
-  <div class="agenda-column agenda-column-time timestamp">16:55</div>
+  <div class="agenda-column agenda-column-time timestamp">17:10</div>
   <div class="agenda-column agenda-1col agenda-item"><strong>Wrap Up</strong></div>
 </div>
