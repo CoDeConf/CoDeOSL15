@@ -47,7 +47,7 @@ title: CoDe & DevOps Conference
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#estimates">Estimates and Continuous Delivery</a><br /><em>Seb Rose, Consultant & Coach</em><br/>
+      <a href="{{site.root}}/program/#estimates">Estimates and Continuous Delivery</a><br /><em>Seb Rose, Consultant & Coach</em><br/><br clear="both">
     </div>
   </div>
 
@@ -60,7 +60,9 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">11:15</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-    <a href="{{site.root}}/program#unleash">Unleash your features gradually</a><br/><em>Ivar Østhus, Lead Developer, FINN.no</em></div>
+    <a href="{{site.root}}/program#unleash">Unleash your features gradually</a><br/><em>Ivar Østhus, Lead Developer, FINN.no</em><br/>&nbsp;
+    </div>
+
     <div class="agenda-column agenda-col2 agenda-item multi-line">
     <a href="{{site.root}}/program#unicorns">All unicorns were once horses (and some were donkeys before that)</a><br/><em>Mike Long, Praqma</em></div>
   </div>
@@ -73,7 +75,7 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">12:30</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#elephant"> DevOps and Moving the Elephant</a><br /><em>Chris Gargiulo, Maersk Group</em>
+      <a href="{{site.root}}/program/#elephant"> DevOps and Moving the Elephant</a><br /><em>Chris Gargiulo, Maersk Group</em><br/>&nbsp;
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
@@ -107,7 +109,7 @@ title: CoDe & DevOps Conference
   <a href="{{site.root}}/program#vision">On the way towards the vision of DevOps</a><br/><em>Per Arnold Blaasmo, Senior Software Craftsman, Atmel Norway</em></div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="{{site.root}}/program#demand">What does Continuous Delivery demand of me as a person?</a><br/><em>Mark Coleman, Continuous Delivery Consultant, Implicit-Explicit</em></div>
+  <a href="{{site.root}}/program#demand">What does Continuous Delivery demand of me as a person?</a><br/><em>Mark Coleman, CD Consultant, Implicit-Explicit</em></div>
 </div>
 
   <div class="agenda-row">
@@ -117,8 +119,9 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:05</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#making">Making the Case for Review</a><br /><em>Austin Bingham, Technical Director, Sixty North</em></div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#largescale">Continuous Deployment to large scale embedded systems</a><br /><em>Tore Martin Hagen, Embedded SW Architect, WesternGeco</em></div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#making">Making the Case for Review</a><br /><em>Austin Bingham, Technical Director, Sixty North</em><br/>&nbsp;
+    </div>
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#largescale">Continuous Deployment to large scale embedded systems</a><br /><em>Tore M. Hagen, SW Architect, WesternGeco</em></div>
   </div>
 
   <div class="agenda-row">
