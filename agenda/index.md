@@ -140,7 +140,7 @@ title: CoDe & DevOps Conference
 <div class="agenda-row">
   <div class="agenda-column agenda-column-time timestamp">16:40</div>
 
-  <div class="agenda-column agenda-1col agenda-item"><a href="{{site.root}}/program/#panel">Panel Discussion - All Presenters on Stage</a><br/><em>Topics from audience: Tweet'em to <a href="/social/tweets.html">@codeosl</a> during the day</em></div>
+  <div class="agenda-column agenda-1col agenda-item"><a href="{{site.root}}/program/#panel">Panel Discussion - All Presenters on Stage</a><br/><em>Topics from audience: Tweet'em to <a href="{{site.root}}/social/tweets.html">@codeosl</a> during the day</em></div>
 
 
 <div class="agenda-row">
