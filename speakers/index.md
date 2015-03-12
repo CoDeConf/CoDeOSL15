@@ -4,7 +4,7 @@ title: CoDe OSL 2015 - speakers
 ---
 #CoDe OSL 2015 - speakers
 
-## Georg von Sperling
+## Georg Von Sperling
 {: #gsperling}
 
 ###### DevOps Evangelist, Automation Specialist, Over-caffeinated Perfectionist, CA Technologies
