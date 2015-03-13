@@ -47,7 +47,7 @@ title: CoDe & DevOps Conference
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#estimates">Estimates and Continuous Delivery</a><br /><em>Seb Rose, Consultant & Coach</em><br/><br clear="both">
+      <a href="{{site.root}}/program/#making">Making the Case for Review</a><br /><em>Austin Bingham, Technical Director, Sixty North</em><br/><br clear="both">
     </div>
   </div>
 
@@ -60,7 +60,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">11:15</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-    <a href="{{site.root}}/program#unleash">Unleash your features gradually</a><br/><em>Ivar Østhus, Lead Developer, FINN.no</em><br/>&nbsp;
+    <a href="{{site.root}}/program#vision">On the way towards the vision of DevOps</a><br/><em>Per Arnold Blaasmo, Senior Software Craftsman, Atmel Norway</em>
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
@@ -106,7 +106,7 @@ title: CoDe & DevOps Conference
   <div class="agenda-column agenda-column-time timestamp">13:50</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="{{site.root}}/program#vision">On the way towards the vision of DevOps</a><br/><em>Per Arnold Blaasmo, Senior Software Craftsman, Atmel Norway</em></div>
+  <a href="{{site.root}}/program#unleash">Unleash your features gradually</a><br/><em>Ivar Østhus, Lead Developer, FINN.no</em><br/>&nbsp;</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
   <a href="{{site.root}}/program#demand">What does Continuous Delivery demand of me as a person?</a><br/><em>Mark Coleman, CD Consultant, Implicit-Explicit</em></div>
@@ -119,7 +119,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:05</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#making">Making the Case for Review</a><br /><em>Austin Bingham, Technical Director, Sixty North</em><br/>&nbsp;
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#estimates">Estimates and Continuous Delivery</a><br /><em>Sep Rose, Consultant & Coach</em><br/>&nbsp;
     </div>
     <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#largescale">Continous Delivery with Petrel - Large scale distributed application development</a><br /><em>Pardeep Sandhu, Lead Build Engineer, Schlumberger</em></div>
   </div>
