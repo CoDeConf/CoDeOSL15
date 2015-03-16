@@ -4,6 +4,15 @@ title: CoDe OSL 2015 Program
 ---
 # CoDe OSL 2015 Program
 
+## Automation – a DevOps critical success factor
+{: #automation}
+
+#### Keynote
+
+######[Georg von Sperling]({{site.root}}/speakers#gsperling), CA Technologies
+
+"Automate everything you can” has long been a DevOps mantra, but why is this? How can automation remove human error caused by either overly complex or equally, repetitive and dull tasks? What could and should be automated, and where is human interaction best utilised? Georg von Sperling uses examples of where automation can make a significant impact on the ability to create a Continuous Delivery model and explains why automation can be applied across all aspects of the software delivery lifecycle, through build to testing, provisioning and deployment. He also highlights where and how you can “automate the automation”.
+
 ## Using Continuous Delivery to Build Products Customers Actually Use
 {: #usingcd}
 

@@ -4,12 +4,12 @@ title: CoDe OSL 2015 - speakers
 ---
 #CoDe OSL 2015 - speakers
 
-## Georg Von Sperling
+## Georg von Sperling
 {: #gsperling}
 
 ###### DevOps Evangelist, Automation Specialist, Over-caffeinated Perfectionist, CA Technologies
 
-#### Speak [Keynote, TBA]({{site.root}}/program#)
+#### Speak [Keynote, Automation – a DevOps critical success factor]({{site.root}}/program#automate)
 
 ![ Georg Von Sperling]({{site.root}}/images/speakers/gsperling.jpg){: .portrait} Georg von Sperling is an avid DevOps and Automation Evangelist personally and at CA Technologies. He's a firm believer in operationalizing development, right-shifting organizations, unleashing the true business value of IT organizations, effectiveness over efficiency, quality over quantity, teamwork over silos, karma, openness, and honesty. His career has traversed software development, process engineering, consulting and business development. Born in Moscow, grew up in East-Berlin, US-American since 1990, living in Germany again as of 2011.
 
