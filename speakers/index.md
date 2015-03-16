@@ -102,7 +102,8 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [On the way towards the vision of DevOps]({{site.root}}/program#vision)
 
-![Per Arnold Blaasmo]({{site.root}}/images/speakers/pblaasmo.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.
+![Per Arnold Blaasmo]({{site.root}}/images/speakers/pblaasmo.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.<br clear="both">
+
 
 ## Mark Coleman
 {: #mcoleman}
