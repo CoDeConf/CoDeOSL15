@@ -12,7 +12,7 @@ title: Sponsors
 
 [__Atlassian is gold sponsor__<br/>Software to plan, collaborate, code, and service. Built for teams.]({{site.root}}/sponsors/atlassian.html){: .sponsorbox .gold #atlassian}
 
-[__Delphix is gold sponsor__<br/>Software for simplifying the building, testing, and upgrading of applications.]({{site.root}}/sponsors/delphix.html){: .sponsorbox .gold #delphix}
+[__Delphix is gold sponsor__<br/>Software for simplifying the building, testing, and upgrading of applications.]({{site.root}}/sponsors/delphix.html){: .sponsorbox .gold #delphix style="vertical-align:middle"}
 
 
 <div style="clear:both;">&nbsp;</div>
