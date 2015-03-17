@@ -81,7 +81,7 @@ Through this presentation I will try, with the help of real life examples, to hi
 
 Answering the following questions from an industrial point of view: How do you develop, control, and maintain an advanced SW codebase that distributes and ships into multiple HW products? How does Continuous Delivery of SW fit into such an environment? How do you set-up a SW quality toolchain that starts with design and ends up in a product at the customers desk?
 
-## On the way towards the vision of DevOps
+## From snapshot to release
 {: #vision}
 
 ######[Per Arnold Blaasmo]({{site.root}}/speakers#pblaasmo), Atmel
