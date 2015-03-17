@@ -60,7 +60,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">11:15</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-    <a href="{{site.root}}/program#vision">From snapshot to release</a><br/><em>Per Arnold Blaasmo, Senior Software Craftsman, Atmel Norway</em>
+    <a href="{{site.root}}/program#snapshot">From snapshot to release</a><br/><em>Per Arnold Blaasmo, Senior Software Craftsman, Atmel Norway</em>
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">
