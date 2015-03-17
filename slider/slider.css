@@ -73,6 +73,12 @@ html[xmlns] .slides {
 
 .flexslider .slides {
     zoom: 1;
+    background: #fff;
+    position: relative;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
 }
 
 .flexslider .slides > li {
@@ -197,4 +203,3 @@ nocontrol .flex-control-nav li a{
 nav ul {
     list-style: none;
 }
-
