@@ -21,4 +21,4 @@ Whether you’re well on your way to adopt `CoDe` practices in your organization
 `CoDeOSL` seeks to provide inspiring and actionable information for key decision makers responsible for products and services that depend on software. **_See what worked, what didn’t, what are best practices, and what value `CoDe` can bring to your business_.**
 
 __Pre-Conference Training__{: .inverted}
-Make the most of your trip to Oslo by taking advantage of the pre-conference training the day before CoDeOSL15. The training provides an in-depth introduction to Continuous Delivery and will cover the most typical software delivery challenges of today´s corporations and analyze how these can be resolved by gaining control over software release processes through Continuous Delivery.
+Make the most of your trip to Oslo by taking advantage of the pre-conference training the day before CoDeOSL. The training provides an in-depth introduction to Continuous Delivery and will cover the most typical software delivery challenges of today´s corporations and analyze how these can be resolved by gaining control over software release processes through Continuous Delivery.
