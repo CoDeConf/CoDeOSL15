@@ -86,7 +86,7 @@ Answering the following questions from an industrial point of view: How do you d
 
 ######[Per Arnold Blaasmo]({{site.root}}/speakers#pblaasmo), Atmel
 
-A talk about the challenges and experiences for Atmel when moving from a Waterfall model to a DevOps model with Continuous Deployment, when doing software development in a global company.
+A presentation about how Atmel implements DevOps in a global company. How did we got there and what experiences we did along the way. The speak will be supported by examples of the various projects that implement the choices that we made throughout the journey towards DevOps.
 
 ## What does Continuous Delivery demand of me as a person?
 {: #demand}
