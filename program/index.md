@@ -4,6 +4,8 @@ title: CoDe OSL 2015 Program
 ---
 # CoDe OSL 2015 Program
 
+######[Click here to see the full agenda]({{site.root}}/program/agenda.html)
+
 ## Automation – a DevOps critical success factor
 {: #automation}
 

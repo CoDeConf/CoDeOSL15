@@ -20,5 +20,13 @@ Whether you’re well on your way to adopt `CoDe` practices in your organization
 
 `CoDeOSL` seeks to provide inspiring and actionable information for key decision makers responsible for products and services that depend on software. **_See what worked, what didn’t, what are best practices, and what value `CoDe` can bring to your business_.**
 
-__Pre-Conference Training__{: .inverted}
-Make the most of your trip to Oslo by taking advantage of the pre-conference training the day before CoDeOSL. The training provides an in-depth introduction to Continuous Delivery and will cover the most typical software delivery challenges of today´s corporations and analyze how these can be resolved by gaining control over software release processes through Continuous Delivery.
+######Pre-Conference Training
+
+__April 28th, 2015, pre-coference training at Teknologihuset Oslo.__
+
+Make the most of your trip to Oslo by taking advantage of the pre-conference training the day before CoDeOSL. The training provides an in-depth introduction to Continuous Delivery and will cover the most typical software delivery challenges of today´s corporations and analyze how these can be resolved by gaining control over software release processes through Continuous Delivery. _[...more]({{site.root}}/training/)_
+
+######Register
+
+<div style="width:100%; text-align:left;" >
+<iframe  src="//eventbrite.com/tickets-external?eid=15505206490&ref=etckt" frameborder="0" height="480" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Online Ticketing</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://codeosl15.eventbrite.com/?ref=etckt">Continuous Delivery & DevOps Conference Oslo 2015</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
