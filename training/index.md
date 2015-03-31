@@ -4,8 +4,6 @@ title: Continuous delivery Pre-Conference training
 ---
 #CoDeOSL Pre-Conference training
 
-![codeosl](./images/CoDeOSL_TOP2.jpg){: style="width:0px; height:0px;"}
-
 _Make the most_{: .inverted} __of your trip to Oslo by taking advantage of the pre-conference training on the day before CoDeOSL15. The training is delivered by Praqma. It's  designed to provide an in-depth introduction to Continuous Delivery.__
 
 The training will cover the most typical software delivery challenges of today´s corporations and analyze how these can be resolved by gaining control over software development processes through Continuous Delivery.
