@@ -119,7 +119,7 @@ title: CoDe & DevOps Conference
 
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">15:05</div>
-    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#estimates">Estimates and Continuous Delivery</a><br /><em>Sep Rose, Consultant & Coach</em><br/>&nbsp;
+    <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#estimates">Estimates and Continuous Delivery</a><br /><em>Sep Rose, Consultant & Coach, Claysnow</em><br/>&nbsp;
     </div>
     <div class="agenda-column agenda-col2 agenda-item multi-line"><a href="{{site.root}}/program/#largescale">Continuous Delivery with Petrel - Large scale distributed application development</a><br /><em>Pardeep Sandhu, Lead Build Engineer, Schlumberger</em></div>
   </div>
