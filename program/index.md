@@ -35,7 +35,7 @@ using today, before discussing what you need to consider if you want to set up a
 ## Estimates and Continuous Delivery
 {: #estimates}
 
-######[Seb Rose]({{site.root}}/speakers#srose), Consultant & Coach
+######[Seb Rose]({{site.root}}/speakers#srose), Consultant & Coach, Claysnow
 
 Estimates are slippery things at the best of times, but they get a whole lot more slippery when combined with Continuous Delivery. In this session we discover that there is more than one kind of estimate and examine how they are typically used in an agile context. We'll then dig a bit deeper to see how Continuous Delivery affects our approach, and whether there are any responsible alternatives to estimation. Along the way I hope to play a game or two with you, so be prepared to have some fun with estimates.
 

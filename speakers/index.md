@@ -34,7 +34,7 @@ title: CoDe OSL 2015 - speakers
 ## Seb Rose
 {: #srose}
 
-###### Consultant & Coach
+###### Consultant & Coach, Claysnow
 
 #### Speak [Estimates and Continuous Delivery]({{site.root}}/program#estimates)
 
