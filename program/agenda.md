@@ -26,7 +26,7 @@ title: CoDe & DevOps Conference
     <div class="agenda-column agenda-column-time timestamp">9:30</div>
     <div class="agenda-column agenda-1col agenda-item">
       <a href="{{site.root}}/program/#devops">Keynote: Automation – a DevOps critical success factor</a><br />
-      <em>Georg Von Sperling, DevOps Evangelist &amp; Automation Specialist, CA Technologies</em>
+      <em>Georg von Sperling, DevOps Evangelist &amp; Automation Specialist, CA Technologies</em>
     </div>
   </div>
 
