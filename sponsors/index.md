@@ -12,6 +12,10 @@ title: Sponsors
 
 [__Delphix is gold sponsor__<br/>Software for simplifying the building, testing, and upgrading of applications.]({{site.root}}/sponsors/delphix.html){: .sponsorbox .gold #delphix style="vertical-align:middle"}
 
-[__BEKK is silver sponsor__<br/>Strategic advisory, systems development & design of digitalservices.]({{site.root}}/sponsors/bekk.html){: .sponsorbox .community #bekk style="vertical-align:middle"}
+[__BEKK is silver sponsor__<br/>Strategic advisory, systems development & design of digitalservices.]({{site.root}}/sponsors/bekk.html){: .sponsorbox .silver #bekk style="vertical-align:middle"}
+
+[__AppDynamics is silver sponsor__<br/>Strategic advisory, systems development & design of digitalservices.]({{site.root}}/sponsors/appdynamics.html){: .sponsorbox .silver #appdynamics style="vertical-align:middle"}
+
+[__DevOps Norway is community sponsor__<br/>Strategic advisory, systems development & design of digitalservices.]({{site.root}}/sponsors/devopsnorway.html){: .sponsorbox .community #devopsnorway style="vertical-align:middle"}
 
 <div style="clear:both;">&nbsp;</div>
