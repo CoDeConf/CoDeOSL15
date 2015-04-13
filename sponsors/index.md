@@ -10,9 +10,8 @@ title: Sponsors
 
 [__XebiaLabs is gold sponsor__<br/>Leading provider of Continuous Delivery and DevOps tools for the Enterprise.]({{site.root}}/sponsors/xebialabs.html){: .sponsorbox .gold #xebialabs style="clear:left;"}
 
-[__Atlassian is gold sponsor__<br/>Software to plan, collaborate, code, and service. Built for teams.]({{site.root}}/sponsors/atlassian.html){: .sponsorbox .gold #atlassian}
-
 [__Delphix is gold sponsor__<br/>Software for simplifying the building, testing, and upgrading of applications.]({{site.root}}/sponsors/delphix.html){: .sponsorbox .gold #delphix style="vertical-align:middle"}
 
+[__BEKK is silver sponsor__<br/>Strategic advisory, systems develop-ment and design of digital services.]({{site.root}}/sponsors/bekk.html){: .sponsorbox .silver #bekk style="vertical-align:middle"}
 
 <div style="clear:both;">&nbsp;</div>
