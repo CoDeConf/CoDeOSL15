@@ -14,8 +14,8 @@ title: Sponsors
 
 [__BEKK is silver sponsor__<br/>Strategic advisory, systems development & design of digitalservices.]({{site.root}}/sponsors/bekk.html){: .sponsorbox .silver #bekk style="vertical-align:middle"}
 
-[__AppDynamics is silver sponsor__<br/>Strategic advisory, systems development & design of digitalservices.]({{site.root}}/sponsors/appdynamics.html){: .sponsorbox .silver #appdynamics style="vertical-align:middle"}
+[__AppDynamics is silver sponsor__<br/>One Platform. Unified Monitoring, & DevOps Collaboration.]({{site.root}}/sponsors/appdynamics.html){: .sponsorbox .silver #appdynamics style="vertical-align:middle"}
 
-[__DevOps Norway is community sponsor__<br/>Strategic advisory, systems development & design of digitalservices.]({{site.root}}/sponsors/devopsnorway.html){: .sponsorbox .community #devopsnorway style="vertical-align:middle"}
+[__DevOps Norway, community sponsor__<br/>A group for anyone interested in DevOps and Continuous Delivery.]({{site.root}}/sponsors/devopsnorway.html){: .sponsorbox .community #devopsnorway style="vertical-align:middle"}
 
 <div style="clear:both;">&nbsp;</div>

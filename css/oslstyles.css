@@ -107,3 +107,11 @@ a.sponsorbox.sidebar, a.sponsorbox.sidebar:hover{
 #bekk.sponsorbox {
   background-image: url("../sponsors/logos/bekk_4x2.png");
 }
+
+#appdynamics.sponsorbox {
+  background-image: url("../sponsors/logos/appdynamics_4x2.png");
+}
+
+#devopsnorway.sponsorbox {
+  background-image: url("../sponsors/logos/devopsnorway_4x2.png");
+}
