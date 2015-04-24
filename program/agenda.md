@@ -75,7 +75,7 @@ title: CoDe & DevOps Conference
   <div class="agenda-row">
     <div class="agenda-column agenda-column-time timestamp">12:30</div>
     <div class="agenda-column agenda-col2 agenda-item multi-line">
-      <a href="{{site.root}}/program/#elephant"> DevOps and Moving the Elephant</a><br /><em>Chris Gargiulo, Maersk Group</em><br/>&nbsp;
+      <a href="{{site.root}}/program/#notjusttools">Continuous Delivery, it's not just about the tools</a><br /><em>Maarten Kennis, Continuous Delivery Consultant, XebiaLabs</em>
     </div>
 
     <div class="agenda-column agenda-col2 agenda-item multi-line">

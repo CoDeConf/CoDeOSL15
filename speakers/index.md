@@ -59,14 +59,14 @@ title: CoDe OSL 2015 - speakers
 
 ![Mike Long]({{site.root}}/images/speakers/mlong.jpg){: .portrait} As a DevOps and Continuous Delivery consultant, Mike's specialties include coaching and mentoring teams to adopt modern technical practices in hostile embedded and legacy environments. He holds over 10 years of professional software engineering experience, working in a variety of cultures and business domains. He considers software as a craft, and enjoys sharing the pursuit of technical excellence with fellow professionals.
 
-## Chris Gargiulo
-{: #cgargiulo}
+## Maarten Kennis
+{: #mkennis}
 
-###### Head of DevOps and Enterprise Service Platforms, Maersk Group Infrastructure Services
+###### Continuous Delivery Consultant, XebiaLabs
 
-#### Speak [DevOps and Moving the Elephant]({{site.root}}/program#elephant)
+#### Speak [Continuous Delivery, it's not just about the tools]({{site.root}}/program#notjusttools)
 
-![Chris Gargiulo]({{site.root}}/images/speakers/cgargiulo.jpg){: .portrait} Chris Gargiulo has worked in the IT industry for the past 20 years. Having worked in areas such technology training, application delivery, business platform development and operations. Throughout this career he has held several leadership positions, including his current role as head of DevOps and Enterprise Platform Services in Maersk Group IS. Over the last four years, while working for Maersk, he has established and built a broad DevOps organization that is located across three different countries in Europe and Asia. He is also a strong believer that the key to making DevOps work for an existing organization, you must prove yourself at every step along the way. This is what is called moving the elephant.
+![Maarten Kennis]({{site.root}}/images/speakers/mkennis.jpg){: .portrait} As a DevOps and Continuous Delivery consultant, Maarten is specialized in Continuous Delivery, DevOps and everything that comes with it. With a background in enterprise middleware, Maarten has implemented Continuous Delivery, DevOps and it's tools at various medium to large sized enterprises.
 
 ## Stein Inge Morisbak
 {: #smorisbak}

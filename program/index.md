@@ -51,12 +51,12 @@ At FINN.no we are 140 developers deploying code to production multiple times a d
 
 One of the most widely held beliefs about DevOps is that it applies "only for startups and unicorns". We think of all the success stories from Google, Amazon, Etsy, and Flickr and conclude that all the best-in-class companies were born as "unicorns", with DevOps in their DNA. However, when we look at the paths these companies have forged a different story emerges. A story of ambition, commitment, and determination to overcome real and difficult barriers in technology and culture. The truth is that all unicorns were once horses - and some were  donkeys before that. This presentation will bust common myths about Continuous Delivery and look at what it  takes to transform a donkey to a market-leading unicorn.
 
-## DevOps and Moving the Elephant
-{: #elephant}
+## Continuous Delivery, it's not just about the tools
+{: #notjusttools}
 
-######[Chris Gargiulo]({{site.root}}/speakers#cgargiulo), Maersk Group
+######[Maarten Kennis]({{site.root}}/speakers#mkennis), XebiaLabs
 
-Introducing DevOps as a methodology for delivering business value into an existing organization has many challanges. One of the largest being that of going against long established norms and processes. In the presentation, ‘DevOps and Moving the Elephant’, I will present a brief history of the progress made within Maersk Line IT and now Maersk Group IS that has helped make the difference in being able to anchor critical changes in how IT infrastructure is delivered and managed using DevOps methods.
+Continuous Delivery and DevOps are about much more than technology! Many Continuous Delivery and DevOps discussions, both at technical and at manager level, quickly turn to the subject of automation and tooling. However, are we losing track of the people and practices? Are we setting ourselves up for failure by missing critical and often much harder to implement components than putting a new tool in place? We'll talk about whether we're losing track of what is important here, and, if so, discuss suggestions and approaches and share some "tales from the trenches" to tackle this issue.
 
 ## DevOps or Die!
 {: #die}
