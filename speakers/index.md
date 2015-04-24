@@ -66,7 +66,7 @@ title: CoDe OSL 2015 - speakers
 
 #### Speak [Continuous Delivery, it's not just about the tools]({{site.root}}/program#notjusttools)
 
-![Maarten Kennis]({{site.root}}/images/speakers/mkennis.jpg){: .portrait} As a DevOps and Continuous Delivery consultant, Maarten is specialized in Continuous Delivery, DevOps and everything that comes with it. With a background in enterprise middleware, Maarten has implemented Continuous Delivery, DevOps and it's tools at various medium to large sized enterprises.
+![Maarten Kennis]({{site.root}}/images/speakers/mkennis.jpg){: .portrait} As a DevOps and Continuous Delivery consultant, Maarten is specialized in Continuous Delivery, DevOps and everything that comes with it. With a background in enterprise middleware, Maarten has implemented Continuous Delivery, DevOps and it's tools at various medium to large sized enterprises.<br clear="both">
 
 ## Stein Inge Morisbak
 {: #smorisbak}
