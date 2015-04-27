@@ -109,7 +109,7 @@ title: CoDe & DevOps Conference
   <a href="{{site.root}}/program#unleash">Unleash your features gradually</a><br/><em>Ivar Østhus, Lead Developer, FINN.no</em><br/>&nbsp;</div>
   <div class="agenda-column agenda-col2 agenda-item multi-line">
 
-  <a href="{{site.root}}/program#demand">What does Continuous Delivery demand of me as a person?</a><br/><em>Mark Coleman, CD Consultant, Implicit-Explicit</em></div>
+  <a href="{{site.root}}/program#noops">NoOps - beyond the DevOps frontier!</a><br/><em>Lars Kruse, Continuous Delivery Coach, Praqma</em><br/>&nbsp;</div>
 </div>
 
   <div class="agenda-row">

@@ -88,13 +88,12 @@ Answering the following questions from an industrial point of view: How do you d
 
 A presentation about how Atmel implements DevOps in a global company. How did we got there and what experiences we did along the way. The speak will be supported by examples of the various projects that implement the choices that we made throughout the journey towards DevOps.
 
-## What does Continuous Delivery demand of me as a person?
-{: #demand}
+## NoOps - beyond the DevOps frontier!
+{: #noops}
 
-######[Mark Coleman]({{site.root}}/speakers#mcoleman), Implicit- Explicit
+######[Lars Kruse]({{site.root}}/speakers#lkruse), Praqma
 
-Anyone looking to learn more about Continuous Delivery can find reams of information; from tooling to organisational design, it seems that all topics are covered by an ever growing  amount of information in books and online. Over the last 5 years I've introduced Continuous Delivery to several teams, and in every single project, the biggest hurdle to be overcome is not one of insufficient knowledge, but one of personality. Quite simply, if your team were already mature enough to implement Continuous Delivery, and if Continuous Delivery were the solution to a problem they were facing, they would have already implemented it. If you're struggling to implement Continuous Delivery then, that can only tell you one of two things: 1. Your team is not mature enough. 2. Continuous Delivery is not the solution to your problem.
-In this talk we will assume that Continuous Delivery is the solution to your problem and will discover through various stories, which character traits should be present in your team members if they are to build and deliver cutting edge software. We will conclude with suggestions on how to build such a team. This is a non-technical talk for anyone who is managing, or is a member of, a team who are trying to implement Continuous Delivery.
+DevOps is often referred to in the meaning; "to close the gap between Development and Operations". This speak is a glimpse into the a very near future, where software developers aren't dependent on Ops at all. In a NoOps world, queues have disappeared, resources are available at your command and everything is automated.
 
 ## Making the Case for Review
 {: #making}

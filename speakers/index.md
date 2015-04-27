@@ -105,14 +105,14 @@ title: CoDe OSL 2015 - speakers
 ![Per Arnold Blaasmo]({{site.root}}/images/speakers/pblaasmo.jpg){: .portrait} Department and Project Manager within software development and design in a wide variety of business areas such as transport, telecom, banking, mobile devices, and micro controllers. Main focus on software for both embedded applications and for user applications. Currently responsible for deploying Continuous Deployment troughout Atmel Corporation and the tool stack that supports it.<br clear="both">
 
 
-## Mark Coleman
-{: #mcoleman}
+## Lars Kruse
+{: #lkruse}
 
 ###### Continuous Delivery Consultant, Implicit-Explicit
 
-#### Speak [What does Continuous Delivery demand of me as a person?]({{site.root}}/program#demand)
+#### Speak [NoOps - beyond the DevOps frontier!]({{site.root}}/program#noops)
 
-![Mark Coleman]({{site.root}}/images/speakers/mcoleman.jpg){: .portrait} Mark Coleman is a freelance Continuous Delivery consultant, a founding member of Docker Amsterdam, an associate at Container Solutions, and a co-organiser of DockerCon Europe 2014. He has more than 10 years of experience in Software Development, Configuration Management and IT Operations and has helped some of Europe's largest companies to change the way they create and deliver software to their users. Mark lives in Amsterdam, the Netherlands.
+![Lars Kruse]({{site.root}}/images/speakers/lkruse.jpg){: .portrait} Lars Kruse is partner and co-founder of Praqma, a consultancy bureau specialized in services within optimization of software development processes and maintenance and development of Open Source tools for this purpose. Lars holds a M.Sc in computer science and communication theory and has many years of experience in software configuration management, processes automation, quality assurance and agile software development.
 
 ## Austin Bingham
 {: #bingham}
