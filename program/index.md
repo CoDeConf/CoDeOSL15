@@ -51,7 +51,7 @@ At FINN.no we are 140 developers deploying code to production multiple times a d
 
 One of the most widely held beliefs about DevOps is that it applies "only for startups and unicorns". We think of all the success stories from Google, Amazon, Etsy, and Flickr and conclude that all the best-in-class companies were born as "unicorns", with DevOps in their DNA. However, when we look at the paths these companies have forged a different story emerges. A story of ambition, commitment, and determination to overcome real and difficult barriers in technology and culture. The truth is that all unicorns were once horses - and some were  donkeys before that. This presentation will bust common myths about Continuous Delivery and look at what it  takes to transform a donkey to a market-leading unicorn.
 
-## Continuous Delivery, it's not just about the tools
+## Continuous Delivery & DevOps, it's not just about the tools
 {: #notjusttools}
 
 ######[Maarten Kennis]({{site.root}}/speakers#mkennis), XebiaLabs
